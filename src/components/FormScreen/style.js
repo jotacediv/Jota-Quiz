@@ -24,7 +24,7 @@ const styles = StyleSheet.create({
         borderWidth: 2.3,
         borderColor: '#000',
         fontFamily: 'AnnieUseYourTelescope_400Regular',
-        fontSize: 24
+        fontSize: 30
     },
     textCat:{
         fontFamily: 'AnnieUseYourTelescope_400Regular',

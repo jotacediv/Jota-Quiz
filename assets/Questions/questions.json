@@ -2256,7 +2256,7 @@
     "hard": [
       {
         "question": "Qual é o personagem principal em Far Cry 5?",
-        "correct_answer": "John Seed",
+        "correct_answer": "Joseph Seed",
         "incorrect_answers": ["Jason Brody", "Vaas Montenegro", "Jacob Seed", "Clutch Nixon"]
       },
       {
@@ -2280,7 +2280,7 @@
         "incorrect_answers": ["Inferno", "Mirage", "Train", "Overpass"]
       },
       {
-        "question": "Quem é o fundador da Free Fire?",
+        "question": "Quem é o fundador do Free Fire?",
         "correct_answer": "Garena",
         "incorrect_answers": ["Tencent", "EA", "Riot", "Ubisoft"]
       },
@@ -2305,7 +2305,7 @@
         "incorrect_answers": ["Ateo", "Alpha", "Lorenzo", "Eagle"]
       },
       {
-        "question": "Qual é a melhor arma em Clash Of Clans?",
+        "question": "Qual é a melhor arma em Clash Royale?",
         "correct_answer": "Foguete",
         "incorrect_answers": ["Canhão", "Bola de Fogo", "Trovão", "Granada"]
       },

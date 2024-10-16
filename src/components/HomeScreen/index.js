@@ -3,6 +3,7 @@ import {SafeAreaView, Text, Image, TouchableOpacity, StatusBar} from "react-nati
 import styles from './style'
 import {useFonts, AnnieUseYourTelescope_400Regular} from '@expo-google-fonts/annie-use-your-telescope'
 import {FontAwesome6} from '@expo/vector-icons'
+import AntDesign from '@expo/vector-icons/AntDesign';
 
 export default function HomeScreen({navigation}){
 
@@ -24,6 +25,13 @@ export default function HomeScreen({navigation}){
             <SafeAreaView style={styles.boxButtonHome}>
                 <TouchableOpacity style={styles.boxButton} onPress={()=> navigation.navigate('Form')}>
                         <Text style={styles.textButton}>Começar</Text>
+                </TouchableOpacity>
+            </SafeAreaView>
+
+            <SafeAreaView style={styles.boxAbout}>
+                <TouchableOpacity style={styles.boxAboutButton} onPress={()=>navigation.navigate('About')}>
+                    <Text style={styles.textAbout}>Sobre</Text>
+                    <AntDesign  name="infocirlceo" size={28} color="black" />
                 </TouchableOpacity>
             </SafeAreaView>
 

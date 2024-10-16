@@ -33,6 +33,19 @@ const styles = StyleSheet.create({
         color: '#000',
         fontFamily: 'AnnieUseYourTelescope_400Regular'
     },
+    boxAboutButton:{
+        justifyContent: 'flex-end',
+        flexDirection: 'row-reverse'
+    },
+    boxAbout:{
+        backgroundColor:'#1952FC',
+        padding: 5
+    },
+    textAbout:{
+        fontSize: 20,
+        marginLeft: 4,
+        marginBottom: 2
+    },
     boxBase:{
         flexDirection: 'row',
         justifyContent: 'space-around',
