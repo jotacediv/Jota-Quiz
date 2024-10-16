@@ -1,0 +1,3284 @@
+{
+  "futebol": {
+    "easy": [
+      {
+        "question": "Qual país sediou a Copa do Mundo de 2014?",
+        "correct_answer": "Brasil",
+        "incorrect_answers": ["Alemanha", "África do Sul", "França", "Itália"]
+      },
+      {
+        "question": "Quem foi o vencedor da Copa do Mundo de 1994?",
+        "correct_answer": "Brasil",
+        "incorrect_answers": ["Alemanha", "Argentina", "Itália", "França"]
+      },
+      {
+        "question": "Qual jogador é conhecido como 'O Fenômeno'?",
+        "correct_answer": "Ronaldo",
+        "incorrect_answers": ["Ronaldinho", "Pogba", "Neymar", "Pelé"]
+      },
+      {
+        "question": "Qual é o nome do maior torneio de clubes da Europa?",
+        "correct_answer": "Champions League",
+        "incorrect_answers": ["Copa do Mundo", "Copa América", "Libertadores", "Eurocopa"]
+      },
+      {
+        "question": "Qual o maior goleador da história do futebol?",
+        "correct_answer": "Cristiano Ronaldo",
+        "incorrect_answers": ["Pelé", "Messi", "Romário", "Zico"]
+      },
+      {
+        "question": "Qual é o nome do estádio do Manchester United?",
+        "correct_answer": "Old Trafford",
+        "incorrect_answers": ["Wembley", "Camp Nou", "Santiago Bernabéu", "Emirates Stadium"]
+      },
+      {
+        "question": "Quantas Copas do Mundo a Seleção Brasileira ganhou?",
+        "correct_answer": "5",
+        "incorrect_answers": ["3", "4", "2", "6"]
+      },
+      {
+        "question": "Quem é o técnico da Seleção Brasileira em 2021?",
+        "correct_answer": "Tite",
+        "incorrect_answers": ["Dunga", "Luxemburgo", "Felipão", "Zico"]
+      },
+      {
+        "question": "Qual o maior campeão de Copas do Mundo?",
+        "correct_answer": "Brasil",
+        "incorrect_answers": ["Alemanha", "Argentina", "Itália", "França"]
+      },
+      {
+        "question": "Quem foi o artilheiro da Copa do Mundo de 2018?",
+        "correct_answer": "Harry Kane",
+        "incorrect_answers": ["Cristiano Ronaldo", "Messi", "Neymar", "Mbappé"]
+      },
+      {
+        "question": "Qual time é conhecido como 'Os Gunners'?",
+        "correct_answer": "Arsenal",
+        "incorrect_answers": ["Chelsea", "Liverpool", "Manchester United", "Tottenham"]
+      },
+      {
+        "question": "Qual país venceu a Eurocopa de 2016?",
+        "correct_answer": "Portugal",
+        "incorrect_answers": ["França", "Alemanha", "Espanha", "Itália"]
+      },
+      {
+        "question": "Qual maior campeão da Premier League?",
+        "correct_answer": "Manchester United",
+        "incorrect_answers": ["Liverpool", "Chelsea", "Arsenal", "Manchester City"]
+      },
+      {
+        "question": "Quem é o jogador mais caro da história do futebol?",
+        "correct_answer": "Neymar",
+        "incorrect_answers": ["Messi", "Cristiano Ronaldo", "Kylian Mbappé", "Gareth Bale"]
+      },
+      {
+        "question": "Nome da competição entre seleções da América do Sul.",
+        "correct_answer": "Copa América",
+        "incorrect_answers": ["Eurocopa", "Copa do Mundo", "Gold Cup", "OFC Nations Cup"]
+      },
+      {
+        "question": "Qual é o time mais famoso da cidade de Barcelona?",
+        "correct_answer": "Barcelona",
+        "incorrect_answers": ["Real Madrid", "Atlético de Madrid", "Valência", "Sevilla"]
+      },
+      {
+        "question": "Quem venceu a Copa do Mundo de 2018?",
+        "correct_answer": "França",
+        "incorrect_answers": ["Croácia", "Brasil", "Alemanha", "Argentina"]
+      },
+      {
+        "question": "Quantos jogadores formam uma equipe de futebol em campo?",
+        "correct_answer": "11",
+        "incorrect_answers": ["10", "12", "9", "8"]
+      },
+      {
+        "question": "Qual país tem a maior rivalidade com o Brasil no futebol?",
+        "correct_answer": "Argentina",
+        "incorrect_answers": ["Uruguai", "Itália", "França", "Alemanha"]
+      },
+      {
+        "question": "Quem é conhecido como 'La Pulga' no futebol?",
+        "correct_answer": "Lionel Messi",
+        "incorrect_answers": ["Cristiano Ronaldo", "Maradona", "Aguero", "Di María"]
+      },
+      {
+        "question": "Qual o campeonato de futebol nacional da Inglaterra?",
+        "correct_answer": "Premier League",
+        "incorrect_answers": ["La Liga", "Bundesliga", "Serie A", "Ligue 1"]
+      },
+      {
+        "question": "Quantas vezes a Argentina venceu a Copa do Mundo?",
+        "correct_answer": "3",
+        "incorrect_answers": ["1", "2", "4", "0"]
+      },
+      {
+        "question": "Quem é o atual camisa 10 do Paris Saint-Germain (2022)?",
+        "correct_answer": "Neymar",
+        "incorrect_answers": ["Mbappé", "Messi", "Di María", "Icardi"]
+      },
+      {
+        "question": "Em que ano foi realizada a primeira Copa do Mundo?",
+        "correct_answer": "1930",
+        "incorrect_answers": ["1950", "1940", "1960", "1920"]
+      },
+      {
+        "question": "Qual jogador é conhecido pela camisa 7?",
+        "correct_answer": "Cristiano Ronaldo",
+        "incorrect_answers": ["Messi", "Ronaldinho", "Rivaldo", "Romário"]
+      },
+      {
+        "question": "Qual time venceu a Champions League em 2021?",
+        "correct_answer": "Chelsea",
+        "incorrect_answers": ["Manchester City", "Real Madrid", "Barcelona", "Liverpool"]
+      },
+      {
+        "question": "Qual jogador brasileiro venceu a Bola de Ouro em 1999?",
+        "correct_answer": "Rivaldo",
+        "incorrect_answers": ["Romário", "Ronaldinho", "Zico", "Pelé"]
+      },
+      {
+        "question": "Qual é o nome do mascote da Copa do Mundo de 2014?",
+        "correct_answer": "Fuleco",
+        "incorrect_answers": ["Zakumi", "Zabivaka", "Footix", "Naranjito"]
+      },
+      {
+        "question": "Quem venceu a Copa do Mundo Feminina de 2019?",
+        "correct_answer": "Estados Unidos",
+        "incorrect_answers": ["Brasil", "Alemanha", "Inglaterra", "França"]
+      },
+      {
+        "question": "Quantos gols Pelé marcou oficialmente durante sua carreira?",
+        "correct_answer": "1283",
+        "incorrect_answers": ["1000", "1500", "1200", "900"]
+      }
+      
+    ],
+    "medium": [
+      {
+        "question": "Qual foi a primeira seleção a vencer a Copa do Mundo?",
+        "correct_answer": "Uruguai",
+        "incorrect_answers": ["Brasil", "Alemanha", "Itália", "Argentina"]
+      },
+      {
+        "question": "Qual clube tem a maior quantidade de títulos da Copa do Brasil?",
+        "correct_answer": "Cruzeiro",
+        "incorrect_answers": ["Flamengo", "Palmeiras", "São Paulo", "Santos"]
+      },
+      {
+        "question": "Qual jogador tem mais títulos da Champions League?",
+        "correct_answer": "Cristiano Ronaldo",
+        "incorrect_answers": ["Lionel Messi", "Paolo Maldini", "Gareth Bale", "Karim Benzema"]
+      },
+      {
+        "question": "Qual é o maior estádio do Brasil?",
+        "correct_answer": "Maracanã",
+        "incorrect_answers": ["Mineirão", "Morumbi", "Beira-Rio", "Allianz Parque"]
+      },
+      {
+        "question": "Quem é conhecido como 'O Rei do Futebol'?",
+        "correct_answer": "Pelé",
+        "incorrect_answers": ["Zico", "Ronaldo", "Romário", "Neymar"]
+      },
+      {
+        "question": "Qual jogador ganhou a Bola de Ouro em 2007?",
+        "correct_answer": "Kaká",
+        "incorrect_answers": ["Cristiano Ronaldo", "Messi", "Ronaldinho", "Rivaldo"]
+      },
+      {
+        "question": "Qual clube tem o maior número de títulos da Libertadores?",
+        "correct_answer": "Club Atlético Independiente",
+        "incorrect_answers": ["Flamengo", "São Paulo", "Palmeiras", "Santos"]
+      },
+      {
+        "question": "Qual é o único jogador a vencer a Copa do Mundo três vezes?",
+        "correct_answer": "Pelé",
+        "incorrect_answers": ["Zico", "Ronaldo", "Marta", "Ronaldinho"]
+      },
+      {
+        "question": "Qual país é conhecido como 'A Terra do Futebol'?",
+        "correct_answer": "Brasil",
+        "incorrect_answers": ["Argentina", "Inglaterra", "Alemanha", "Itália"]
+      },
+      {
+        "question": "Quantas seleções participaram da Copa do Mundo de 2018?",
+        "correct_answer": "32",
+        "incorrect_answers": ["24", "16", "48", "40"]
+      },
+      {
+        "question": "Qual torneio de clubes mais antigo do mundo?",
+        "correct_answer": "FA Cup",
+        "incorrect_answers": ["Champions League", "Copa do Brasil", "Copa do Mundo", "Libertadores"]
+      },
+      {
+        "question": "Qual é o maior rival do Barcelona?",
+        "correct_answer": "Real Madrid",
+        "incorrect_answers": ["Atlético de Madrid", "Valência", "Sevilla", "Betis"]
+      },
+      {
+        "question": "Quem foi o primeiro brasileiro a jogar na Europa?",
+        "correct_answer": "Leônidas da Silva",
+        "incorrect_answers": ["Pelé", "Ronaldo", "Zico", "Romário"]
+      },
+      {
+        "question": "Qual jogador ficou famoso por seus dribles?",
+        "correct_answer": "Ronaldinho",
+        "incorrect_answers": ["Lúcio", "Júnior", "Rivaldo", "Taffarel"]
+      },
+      {
+        "question": "Qual é o nome do famoso estádio do Barcelona?",
+        "correct_answer": "Camp Nou",
+        "incorrect_answers": ["Wembley", "San Siro", "Old Trafford", "Allianz Arena"]
+      },
+      {
+        "question": "Quantas vezes o Brasil sediou a Copa do Mundo?",
+        "correct_answer": "2",
+        "incorrect_answers": ["3", "1", "4", "5"]
+      },
+      {
+        "question": "Qual time tem a maior torcida organizada do Brasil?",
+        "correct_answer": "Flamengo",
+        "incorrect_answers": ["Corinthians", "São Paulo", "Palmeiras", "Vasco"]
+      },
+      {
+        "question": "Qual o melhor jogador da Copa do Mundo de 2002?",
+        "correct_answer": "Ronaldo",
+        "incorrect_answers": ["Ronaldinho", "Rivaldo", "Kaká", "Zidane"]
+      },
+      {
+        "question": "Quantas seleções ganharam a Copa do Mundo mais de uma vez?",
+        "correct_answer": "8",
+        "incorrect_answers": ["5", "6", "7", "4"]
+      },
+      {
+        "question": "Qual o maior artilheiro da história da Copa do Brasil?",
+        "correct_answer": "Fred",
+        "incorrect_answers": ["Romário", "Neymar", "Gabigol", "Ronaldo"]
+      },
+      {
+        "question": "Qual é o maior rival do Flamengo?",
+        "correct_answer": "Vasco",
+        "incorrect_answers": ["Fluminense", "Botafogo", "Corinthians", "Palmeiras"]
+      },
+      {
+        "question": "Quem foi o jogador mais jovem a ganhar a Bola de Ouro?",
+        "correct_answer": "Ronaldo",
+        "incorrect_answers": ["Messi", "Cristiano Ronaldo", "Kaká", "Maradona"]
+      },
+      {
+        "question": "Qual seleção foi a campeã da Eurocopa em 2004?",
+        "correct_answer": "Grécia",
+        "incorrect_answers": ["França", "Portugal", "Alemanha", "Espanha"]
+      },
+      {
+        "question": "Quantas vezes Pelé venceu a Copa do Mundo?",
+        "correct_answer": "3",
+        "incorrect_answers": ["2", "4", "1", "5"]
+      },
+      {
+        "question": "Seleção que jogou de forma invicta na Copa do Mundo de 2010.",
+        "correct_answer": "Espanha",
+        "incorrect_answers": ["Alemanha", "Brasil", "Itália", "Uruguai"]
+      },
+      {
+        "question": "Quem recebeu mais cartões vermelhos na história do futebol?",
+        "correct_answer": "Gerardo Bedoya",
+        "incorrect_answers": ["Sergio Ramos", "Pepe", "Paolo Montero", "Vinnie Jones"]
+      },
+      {
+        "question": "Maior título que um jogador pode conquistar por clubes?",
+        "correct_answer": "Champions League",
+        "incorrect_answers": ["Copa do Mundo", "Libertadores", "Copa América", "Premier League"]
+      },
+      {
+        "question": "Qual time foi campeão da Libertadores em 2019?",
+        "correct_answer": "Flamengo",
+        "incorrect_answers": ["River Plate", "Boca Juniors", "Palmeiras", "Grêmio"]
+      },
+      {
+        "question": "Qual é o maior rival do Real Madrid?",
+        "correct_answer": "Barcelona",
+        "incorrect_answers": ["Atlético de Madrid", "Valência", "Sevilla", "Betis"]
+      },
+      {
+        "question": "Qual o time mais antigo do futebol brasileiro?",
+        "correct_answer": "Fluminense",
+        "incorrect_answers": ["Vasco", "Santos", "Palmeiras", "São Paulo"]
+      },
+      {
+        "question": "Quem foi o técnico do Brasil na Copa de 1994?",
+        "correct_answer": "Carlos Alberto Parreira",
+        "incorrect_answers": ["Felipão", "Zagallo", "Luxemburgo", "Tite"]
+      }
+    ],
+    "hard": [
+      {
+        "question": "Jogador a ganhar a Copa do Mundo como jogador e técnico?",
+        "correct_answer": "Mário Zagallo",
+        "incorrect_answers": ["Dunga", "Telê Santana", "Luiz Felipe Scolari", "Carlos Alberto Torres"]
+      },
+      {
+        "question": "Qual jogador é o maior artilheiro da Seleção brasileira?",
+        "correct_answer": "Neymar",
+        "incorrect_answers": ["Ronaldo", "Romário", "Pelé", "Zico"]
+      },
+      {
+        "question": "Qual seleção é conhecida como 'Os Três Leões'?",
+        "correct_answer": "Inglaterra",
+        "incorrect_answers": ["Alemanha", "Brasil", "França", "Argentina"]
+      },
+      {
+        "question": "Qual é o nome da liga de futebol mais rica do mundo?",
+        "correct_answer": "Premier League",
+        "incorrect_answers": ["La Liga", "Bundesliga", "Serie A", "MLS"]
+      },
+      {
+        "question": "Qual país foi o campeão da Copa do Mundo de 2010?",
+        "correct_answer": "Espanha",
+        "incorrect_answers": ["Alemanha", "Brasil", "Holanda", "Argentina"]
+      },
+      {
+        "question": "Quem é o técnico com mais títulos da Champions League?",
+        "correct_answer": "Carlo Ancelotti",
+        "incorrect_answers": ["Zinedine Zidane", "Pep Guardiola", "Sir Alex Ferguson", "José Mourinho"]
+      },
+      {
+        "question": "Qual jogador foi o primeiro a marcar gol em Copas do Mundo?",
+        "correct_answer": "Pelé",
+        "incorrect_answers": ["Cristiano Ronaldo", "Messi", "Ronaldo", "Romário"]
+      },
+      {
+        "question": "Qual é o nome do clássico entre Barcelona e Real Madrid?",
+        "correct_answer": "El Clássico",
+        "incorrect_answers": ["Superclássico", "Derby", "Dérbi", "Clássico"]
+      },
+      {
+        "question": "Qual país venceu a Copa do Mundo em 1966?",
+        "correct_answer": "Inglaterra",
+        "incorrect_answers": ["Brasil", "Alemanha", "Argentina", "Portugal"]
+      },
+      {
+        "question": "Quem foi o primeiro time a vencer a Champions League?",
+        "correct_answer": "Real Madrid",
+        "incorrect_answers": ["AC Milan", "Liverpool", "Bayern de Munique", "Barcelona"]
+      },
+      {
+        "question": "Qual o país que tem o maior número de finais da Copa do Mundo?",
+        "correct_answer": "Alemanha",
+        "incorrect_answers": ["Brasil", "Argentina", "Itália", "França"]
+      },
+      {
+        "question": "Quem jogou no Barcelona e Real Madrid?",
+        "correct_answer": "Ronaldo",
+        "incorrect_answers": ["Pelé", "Romário", "Zico", "Rivaldo"]
+      },
+      {
+        "question": "Qual torneio continental mais importante da América do Sul?",
+        "correct_answer": "Copa Libertadores",
+        "incorrect_answers": ["Copa América", "Champions League", "Eurocopa", "Copa do Mundo"]
+      },
+      {
+        "question": "Quem é o jogador mais jovem a disputar uma Copa do Mundo?",
+        "correct_answer": "Pelé",
+        "incorrect_answers": ["Lionel Messi", "Cristiano Ronaldo", "Ronaldo", "Neymar"]
+      },
+      {
+        "question": "Qual foi o primeiro time brasileiro a conquistar a Libertadores?",
+        "correct_answer": "Santos",
+        "incorrect_answers": ["São Paulo", "Flamengo", "Palmeiras", "Corinthians"]
+      },
+      {
+        "question": "Qual país foi o primeiro a vencer a Eurocopa?",
+        "correct_answer": "União Soviética",
+        "incorrect_answers": ["Alemanha", "França", "Portugal", "Holanda"]
+      },
+      {
+        "question": "Primeiro jogador a marcar 50 gols em uma edição de Premier League.",
+        "correct_answer": "Alan Shearer",
+        "incorrect_answers": ["Thierry Henry", "Wayne Rooney", "Cristiano Ronaldo", "Mohamed Salah"]
+      },
+      {
+        "question": "Primeira seleção africana a chegar às quartas de final da Copa do Mundo.",
+        "correct_answer": "Camarões",
+        "incorrect_answers": ["Nigéria", "Senegal", "Gana", "Argélia"]
+      },
+      {
+        "question": "Quantos gols Gerd Müller marcou na Copa do Mundo de 1970?",
+        "correct_answer": "10",
+        "incorrect_answers": ["8", "6", "12", "7"]
+      },
+      {
+        "question": "Qual jogador é o recordista de gols em uma única Copa do Mundo?",
+        "correct_answer": "Just Fontaine",
+        "incorrect_answers": ["Gerd Müller", "Ronaldo", "Miroslav Klose", "Pelé"]
+      },
+      {
+        "question": "Quem foi o capitão da Inglaterra na Copa do Mundo de 1966?",
+        "correct_answer": "Bobby Moore",
+        "incorrect_answers": ["Bobby Charlton", "George Best", "Gordon Banks", "Geoff Hurst"]
+      },
+      {
+        "question": "Qual clube inglês venceu o primeiro título da Premier League?",
+        "correct_answer": "Manchester United",
+        "incorrect_answers": ["Arsenal", "Liverpool", "Blackburn Rovers", "Chelsea"]
+      },
+      {
+        "question": "Jogador mais velho a jogar uma partida de Copa do Mundo?",
+        "correct_answer": "Essam El-Hadary",
+        "incorrect_answers": ["Dino Zoff", "Roger Milla", "Faryd Mondragón", "Stanley Matthews"]
+      },
+      {
+        "question": "Quem é o artilheiro histórico da Bundesliga?",
+        "correct_answer": "Gerd Müller",
+        "incorrect_answers": ["Robert Lewandowski", "Klaus Fischer", "Jupp Heynckes", "Karl-Heinz Rummenigge"]
+      },
+      {
+        "question": "Qual foi o primeiro time a vencer a Champions League?",
+        "correct_answer": "Real Madrid",
+        "incorrect_answers": ["Barcelona", "Milan", "Benfica", "Ajax"]
+      },
+      {
+        "question": "Quantas vezes o Milan venceu a Champions League até 2022?",
+        "correct_answer": "7",
+        "incorrect_answers": ["6", "5", "8", "9"]
+      },
+      {
+        "question": "Jogador mais jovem a marcar em uma final de Copa do Mundo.",
+        "correct_answer": "Pelé",
+        "incorrect_answers": ["Mbappé", "Ronaldo", "Messi", "Eusébio"]
+      },
+      {
+        "question": "Técnico que comandou a Itália na Copa do Mundo de 2006.",
+        "correct_answer": "Marcello Lippi",
+        "incorrect_answers": ["Roberto Donadoni", "Giovanni Trapattoni", "Arrigo Sacchi", "Cesare Prandelli"]
+      },
+      {
+        "question": "Quantos gols Cristiano Ronaldo marcou no total de Copas do Mundo?",
+        "correct_answer": "8",
+        "incorrect_answers": ["10", "7", "9", "11"]
+      },
+      {
+        "question": "Qual foi o resultado da final da Copa do Mundo de 1990?",
+        "correct_answer": "1-0 para a Alemanha",
+        "incorrect_answers": ["2-1 para a Alemanha", "3-2 para a Argentina", "2-0 para a Alemanha", "1-1, decidida nos pênaltis"]
+      },
+      {
+        "question": "Quem foi o artilheiro da Copa do Mundo de 1966?",
+        "correct_answer": "Eusébio",
+        "incorrect_answers": ["Gerd Müller", "Geoff Hurst", "Bobby Charlton", "Bobby Moore"]
+      }
+    ]
+  },
+  "matematica": {
+    "easy": [
+      {
+        "question": "Qual é a soma de 2 e 3?",
+        "correct_answer": "5",
+        "incorrect_answers": ["4", "6", "7", "3"]
+      },
+      {
+        "question": "Qual é o resultado de 10 dividido por 2?",
+        "correct_answer": "5",
+        "incorrect_answers": ["2", "3", "4", "6"]
+      },
+      {
+        "question": "Qual é o valor de 7 menos 4?",
+        "correct_answer": "3",
+        "incorrect_answers": ["2", "5", "6", "4"]
+      },
+      {
+        "question": "Qual é a multiplicação de 3 por 4?",
+        "correct_answer": "12",
+        "incorrect_answers": ["10", "14", "8", "15"]
+      },
+      {
+        "question": "Qual é a soma de 10 e 5?",
+        "correct_answer": "15",
+        "incorrect_answers": ["10", "20", "25", "12"]
+      },
+      {
+        "question": "Qual é o dobro de 6?",
+        "correct_answer": "12",
+        "incorrect_answers": ["10", "14", "16", "18"]
+      },
+      {
+        "question": "Quanto é 5% de 100?",
+        "correct_answer": "5",
+        "incorrect_answers": ["10", "15", "20", "25"]
+      },
+      {
+        "question": "Qual é a raiz quadrada de 16?",
+        "correct_answer": "4",
+        "incorrect_answers": ["2", "3", "5", "6"]
+      },
+      {
+        "question": "Qual é a soma entre 1, 2 e 3?",
+        "correct_answer": "6",
+        "incorrect_answers": ["5", "4", "7", "8"]
+      },
+      {
+        "question": "Quantos lados tem um triângulo?",
+        "correct_answer": "3",
+        "incorrect_answers": ["4", "5", "6", "2"]
+      },
+      {
+        "question": "Qual é o valor de π (pi) aproximadamente?",
+        "correct_answer": "3.14",
+        "incorrect_answers": ["3", "2.14", "3.5", "4"]
+      },
+      {
+        "question": "Qual é a soma de 10 e 15?",
+        "correct_answer": "25",
+        "incorrect_answers": ["20", "30", "35", "40"]
+      },
+      {
+        "question": "Qual é a multiplicação de 5 por 5?",
+        "correct_answer": "25",
+        "incorrect_answers": ["20", "30", "15", "10"]
+      },
+      {
+        "question": "Quanto é 10 - 7?",
+        "correct_answer": "3",
+        "incorrect_answers": ["2", "1", "4", "5"]
+      },
+      {
+        "question": "Quantos graus tem um círculo?",
+        "correct_answer": "360",
+        "incorrect_answers": ["180", "90", "270", "45"]
+      },
+      {
+        "question": "Qual é o valor de 5 + 7?",
+        "correct_answer": "12",
+        "incorrect_answers": ["10", "11", "13", "14"]
+      },
+      {
+        "question": "Quanto é 9 menos 5?",
+        "correct_answer": "4",
+        "incorrect_answers": ["3", "5", "6", "7"]
+      },
+      {
+        "question": "Qual é a multiplicação de 2 por 3?",
+        "correct_answer": "6",
+        "incorrect_answers": ["5", "7", "4", "8"]
+      },
+      {
+        "question": "Quanto é 6 dividido por 2?",
+        "correct_answer": "3",
+        "incorrect_answers": ["2", "4", "5", "6"]
+      },
+      {
+        "question": "Quanto é o dobro de 8?",
+        "correct_answer": "16",
+        "incorrect_answers": ["14", "18", "12", "20"]
+      },
+      {
+        "question": "Quanto é 100 menos 50?",
+        "correct_answer": "50",
+        "incorrect_answers": ["40", "30", "60", "70"]
+      },
+      {
+        "question": "Qual é a soma de 4 e 9?",
+        "correct_answer": "13",
+        "incorrect_answers": ["12", "14", "15", "10"]
+      },
+      {
+        "question": "Quanto é 12 dividido por 3?",
+        "correct_answer": "4",
+        "incorrect_answers": ["5", "3", "6", "2"]
+      },
+      {
+        "question": "Quantos lados tem um quadrado?",
+        "correct_answer": "4",
+        "incorrect_answers": ["3", "5", "6", "8"]
+      },
+      {
+        "question": "Qual é o valor de 7 + 2?",
+        "correct_answer": "9",
+        "incorrect_answers": ["8", "10", "11", "6"]
+      },
+      {
+        "question": "Quanto é 3²?",
+        "correct_answer": "9",
+        "incorrect_answers": ["6", "8", "12", "15"]
+      },
+      {
+        "question": "Qual é a soma de 8 e 6?",
+        "correct_answer": "14",
+        "incorrect_answers": ["12", "13", "15", "16"]
+      },
+      {
+        "question": "Quanto é 1 + 1?",
+        "correct_answer": "2",
+        "incorrect_answers": ["3", "4", "0", "5"]
+      },
+      {
+        "question": "Quantos lados tem um pentágono?",
+        "correct_answer": "5",
+        "incorrect_answers": ["4", "6", "7", "8"]
+      },
+      {
+        "question": "Quanto é 20% de 50?",
+        "correct_answer": "10",
+        "incorrect_answers": ["5", "15", "20", "25"]
+      }
+    ],
+    "medium": [
+      {
+        "question": "Quanto é 8 + 12?",
+        "correct_answer": "20",
+        "incorrect_answers": ["18", "22", "16", "24"]
+      },
+      {
+        "question": "Qual é a média de 4, 6 e 8?",
+        "correct_answer": "6",
+        "incorrect_answers": ["5", "7", "8", "9"]
+      },
+      {
+        "question": "Qual é o resultado de 15 dividido por 3?",
+        "correct_answer": "5",
+        "incorrect_answers": ["6", "7", "4", "3"]
+      },
+      {
+        "question": "Qual é o resultado de 2³?",
+        "correct_answer": "8",
+        "incorrect_answers": ["6", "4", "10", "12"]
+      },
+      {
+        "question": "Qual é a raiz quadrada de 25?",
+        "correct_answer": "5",
+        "incorrect_answers": ["4", "6", "3", "7"]
+      },
+      {
+        "question": "Qual é o valor de 30% de 200?",
+        "correct_answer": "60",
+        "incorrect_answers": ["40", "20", "80", "100"]
+      },
+      {
+        "question": "Qual é o resultado de 9 - 3 x 2?",
+        "correct_answer": "3",
+        "incorrect_answers": ["4", "5", "6", "7"]
+      },
+      {
+        "question": "Qual é a soma de 1, 3, 5 e 7?",
+        "correct_answer": "16",
+        "incorrect_answers": ["15", "14", "18", "20"]
+      },
+      {
+        "question": "Qual é o valor de 100 dividido por 4?",
+        "correct_answer": "25",
+        "incorrect_answers": ["20", "30", "10", "40"]
+      },
+      {
+        "question": "Qual é o dobro de 15?",
+        "correct_answer": "30",
+        "incorrect_answers": ["20", "25", "35", "40"]
+      },
+      {
+        "question": "Qual é o valor de 5 + 2 × 3?",
+        "correct_answer": "11",
+        "incorrect_answers": ["10", "12", "13", "14"]
+      },
+      {
+        "question": "Quantos lados tem um hexágono?",
+        "correct_answer": "6",
+        "incorrect_answers": ["5", "7", "8", "4"]
+      },
+      {
+        "question": "Quanto é 50 + 25?",
+        "correct_answer": "75",
+        "incorrect_answers": ["70", "80", "65", "60"]
+      },
+      {
+        "question": "Qual é a média de 10, 20 e 30?",
+        "correct_answer": "20",
+        "incorrect_answers": ["15", "25", "30", "35"]
+      },
+      {
+        "question": "Quanto é 7 x 8?",
+        "correct_answer": "56",
+        "incorrect_answers": ["54", "64", "46", "66"]
+      },
+      {
+        "question": "Qual é o valor de 2π (pi) aproximadamente?",
+        "correct_answer": "6.28",
+        "incorrect_answers": ["3.14", "4.14", "5.14", "7.14"]
+      },
+      {
+        "question": "Qual é a soma de 5, 10 e 15?",
+        "correct_answer": "30",
+        "incorrect_answers": ["25", "35", "20", "40"]
+      },
+      {
+        "question": "Qual é a multiplicação de 7 por 6?",
+        "correct_answer": "42",
+        "incorrect_answers": ["36", "48", "40", "45"]
+      },
+      {
+        "question": "Qual é o valor de 50 dividido por 5?",
+        "correct_answer": "10",
+        "incorrect_answers": ["5", "15", "20", "25"]
+      },
+      {
+        "question": "Quanto é 9²?",
+        "correct_answer": "81",
+        "incorrect_answers": ["72", "90", "64", "49"]
+      },
+      {
+        "question": "Qual é a raiz quadrada de 36?",
+        "correct_answer": "6",
+        "incorrect_answers": ["5", "7", "8", "9"]
+      },
+      {
+        "question": "Qual é o valor de 5% de 200?",
+        "correct_answer": "10",
+        "incorrect_answers": ["5", "15", "20", "25"]
+      },
+      {
+        "question": "Quanto é 3 + 2 x 5?",
+        "correct_answer": "13",
+        "incorrect_answers": ["10", "15", "12", "14"]
+      },
+      {
+        "question": "Qual é o valor de 12³?",
+        "correct_answer": "1728",
+        "incorrect_answers": ["144", "1024", "1331", "1000"]
+      },
+      {
+        "question": "Quanto é 25% de 200?",
+        "correct_answer": "50",
+        "incorrect_answers": ["25", "40", "60", "75"]
+      },
+      {
+        "question": "Quantos graus tem um ângulo reto?",
+        "correct_answer": "90",
+        "incorrect_answers": ["45", "180", "360", "270"]
+      },
+      {
+        "question": "Quanto é 7²?",
+        "correct_answer": "49",
+        "incorrect_answers": ["36", "56", "42", "64"]
+      },
+      {
+        "question": "Quanto é 10³?",
+        "correct_answer": "1000",
+        "incorrect_answers": ["100", "10000", "100000", "10"]
+      },
+      {
+        "question": "Quanto é 45 dividido por 9?",
+        "correct_answer": "5",
+        "incorrect_answers": ["4", "6", "7", "8"]
+      },
+      {
+        "question": "Qual é a soma dos números de 1 a 10?",
+        "correct_answer": "55",
+        "incorrect_answers": ["50", "60", "45", "65"]
+      },
+      {
+        "question": "Quanto é 11 + 22 + 33?",
+        "correct_answer": "66",
+        "incorrect_answers": ["55", "77", "44", "88"]
+      }
+    ],
+    "hard": [
+      {
+        "question": "Qual é o resultado de 7! (fatorial de 7)?",
+        "correct_answer": "5040",
+        "incorrect_answers": ["720", "1000", "2000", "3000"]
+      },
+      {
+        "question": "Qual é a solução da equação 2x + 3 = 7?",
+        "correct_answer": "2",
+        "incorrect_answers": ["3", "1", "4", "5"]
+      },
+      {
+        "question": "Qual é o valor de 9²?",
+        "correct_answer": "81",
+        "incorrect_answers": ["72", "90", "82", "78"]
+      },
+      {
+        "question": "Qual é o valor de log₂(8)?",
+        "correct_answer": "3",
+        "incorrect_answers": ["2", "4", "1", "5"]
+      },
+      {
+        "question": "Qual é a solução da equação x² - 5x + 6 = 0?",
+        "correct_answer": "2",
+        "incorrect_answers": ["1", "3", "4", "5"]
+      },
+      {
+        "question": "Qual é o valor de 3³?",
+        "correct_answer": "27",
+        "incorrect_answers": ["24", "30", "21", "36"]
+      },
+      {
+        "question": "Qual é a soma dos ângulos internos de um triângulo?",
+        "correct_answer": "180",
+        "incorrect_answers": ["360", "90", "270", "120"]
+      },
+      {
+        "question": "Qual é o valor de π (pi) multiplicado por 2?",
+        "correct_answer": "6.28",
+        "incorrect_answers": ["3.14", "9.42", "12.56", "4.14"]
+      },
+      {
+        "question": "Qual é a soma de 1 a 100?",
+        "correct_answer": "5050",
+        "incorrect_answers": ["5000", "5100", "5150", "5200"]
+      },
+      {
+        "question": "Qual é a derivada de x²?",
+        "correct_answer": "2x",
+        "incorrect_answers": ["x", "3x", "x²", "2x²"]
+      },
+      {
+        "question": "Qual é o valor de sin(30°)?",
+        "correct_answer": "0.5",
+        "incorrect_answers": ["0", "1", "0.866", "0.707"]
+      },
+      {
+        "question": "Qual é o valor de 4³?",
+        "correct_answer": "64",
+        "incorrect_answers": ["60", "50", "70", "80"]
+      },
+      {
+        "question": "Qual é a soma de 10% de 200 e 20% de 100?",
+        "correct_answer": "60",
+        "incorrect_answers": ["70", "50", "40", "80"]
+      },
+      {
+        "question": "Qual é o valor de 10 elevado a 3?",
+        "correct_answer": "1000",
+        "incorrect_answers": ["100", "10", "10000", "500"]
+      },
+      {
+        "question": "Qual é a integral de x dx?",
+        "correct_answer": "0.5x² + C",
+        "incorrect_answers": ["x² + C", "0.5x + C", "x + C", "C"]
+      },
+      {
+        "question": "Qual é o valor de 10³?",
+        "correct_answer": "1000",
+        "incorrect_answers": ["100", "10000", "10", "500"]
+      },
+      {
+        "question": "Quanto é 6 x 5! (5 fatorial)?",
+        "correct_answer": "720",
+        "incorrect_answers": ["120", "360", "600", "900"]
+      },
+      {
+        "question": "Qual é a solução da equação 4x - 7 = 9?",
+        "correct_answer": "4",
+        "incorrect_answers": ["2", "3", "5", "6"]
+      },
+      {
+        "question": "Quanto é o valor de log10(1000)?",
+        "correct_answer": "3",
+        "incorrect_answers": ["2", "4", "1", "5"]
+      },
+      {
+        "question": "Quanto é a soma dos ângulos internos de um quadrado?",
+        "correct_answer": "360",
+        "incorrect_answers": ["180", "90", "270", "120"]
+      },
+      {
+        "question": "Quanto é 12²?",
+        "correct_answer": "144",
+        "incorrect_answers": ["121", "169", "132", "156"]
+      },
+      {
+        "question": "Qual é o resultado de 2⁵?",
+        "correct_answer": "32",
+        "incorrect_answers": ["16", "64", "48", "24"]
+      },
+      {
+        "question": "Quanto é 2π (pi) multiplicado por 10?",
+        "correct_answer": "62.8",
+        "incorrect_answers": ["31.4", "6.28", "3.14", "12.56"]
+      },
+      {
+        "question": "Qual é a integral de x² dx?",
+        "correct_answer": "1/3x³ + C",
+        "incorrect_answers": ["x³ + C", "1/2x³ + C", "2x³ + C", "C"]
+      },
+      {
+        "question": "Quanto é o valor de sin(45°)?",
+        "correct_answer": "0.707",
+        "incorrect_answers": ["0.5", "0.866", "0.6", "1"]
+      },
+      {
+        "question": "Quanto é 2³ + 3²?",
+        "correct_answer": "17",
+        "incorrect_answers": ["18", "19", "20", "21"]
+      },
+      {
+        "question": "Qual é o valor de cos(60°)?",
+        "correct_answer": "0.5",
+        "incorrect_answers": ["1", "0", "0.866", "0.707"]
+      },
+      {
+        "question": "Qual é o resultado da equação x² - 4x + 4 = 0?",
+        "correct_answer": "2",
+        "incorrect_answers": ["0", "1", "4", "3"]
+      },
+      {
+        "question": "Qual é o valor de 8³?",
+        "correct_answer": "512",
+        "incorrect_answers": ["256", "1024", "128", "64"]
+      },
+      {
+        "question": "Quanto é 6x + 3 = 15?",
+        "correct_answer": "2",
+        "incorrect_answers": ["3", "4", "5", "1"]
+      }
+    ]
+  },
+  "geography": {
+    "easy": [
+      {
+        "question": "Qual é a capital do Brasil?",
+        "correct_answer": "Brasília",
+        "incorrect_answers": ["Rio de Janeiro", "São Paulo", "Belo Horizonte", "Salvador"]
+      },
+      {
+        "question": "Qual é o maior continente do mundo?",
+        "correct_answer": "Ásia",
+        "incorrect_answers": ["África", "América", "Europa", "Oceania"]
+      },
+      {
+        "question": "Qual é o rio mais longo do mundo?",
+        "correct_answer": "Nilo",
+        "incorrect_answers": ["Amazonas", "Yangtze", "Mississippi", "Ganges"]
+      },
+      {
+        "question": "Qual país é conhecido como a terra do sol nascente?",
+        "correct_answer": "Japão",
+        "incorrect_answers": ["China", "Coreia do Sul", "Tailândia", "Filipinas"]
+      },
+      {
+        "question": "Qual é a capital da França?",
+        "correct_answer": "Paris",
+        "incorrect_answers": ["Londres", "Berlim", "Madri", "Roma"]
+      },
+      {
+        "question": "Qual é a montanha mais alta do mundo?",
+        "correct_answer": "Everest",
+        "incorrect_answers": ["K2", "Kilimanjaro", "Aconcágua", "Denali"]
+      },
+      {
+        "question": "Qual é o maior oceano do mundo?",
+        "correct_answer": "Pacífico",
+        "incorrect_answers": ["Atlântico", "Índico", "Ártico", "Antártico"]
+      },
+      {
+        "question": "Qual país tem a maior população do mundo?",
+        "correct_answer": "China",
+        "incorrect_answers": ["Índia", "Estados Unidos", "Brasil", "Indonésia"]
+      },
+      {
+        "question": "Qual é a capital da Austrália?",
+        "correct_answer": "Canberra",
+        "incorrect_answers": ["Sydney", "Melbourne", "Brisbane", "Perth"]
+      },
+      {
+        "question": "Qual é o deserto mais seco do mundo?",
+        "correct_answer": "Atacama",
+        "incorrect_answers": ["Sahara", "Gobi", "Kalahari", "Sonora"]
+      },
+      {
+        "question": "Qual é a capital da Argentina?",
+        "correct_answer": "Buenos Aires",
+        "incorrect_answers": ["Córdoba", "Rosário", "La Plata", "Mendoza"]
+      },
+      {
+        "question": "Qual é o maior país do mundo?",
+        "correct_answer": "Rússia",
+        "incorrect_answers": ["Canadá", "China", "Estados Unidos", "Brasil"]
+      },
+      {
+        "question": "Qual é a capital do Japão?",
+        "correct_answer": "Tóquio",
+        "incorrect_answers": ["Pequim", "Seul", "Bangkok", "Hanoi"]
+      },
+      {
+        "question": "Qual é o continente da Austrália?",
+        "correct_answer": "Oceania",
+        "incorrect_answers": ["Ásia", "América", "Europa", "África"]
+      },
+      {
+        "question": "Qual é a capital da Índia?",
+        "correct_answer": "Nova Délhi",
+        "incorrect_answers": ["Mumbai", "Bengala Ocidental", "Chennai", "Bangalore"]
+      },
+      {
+        "question": "Qual é o rio mais longo da Europa?",
+        "correct_answer": "Rio Volga",
+        "incorrect_answers": ["Rio Danúbio", "Rio Reno", "Rio Elba", "Rio Sena"]
+      },
+      {
+        "question": "Qual é o oceano que banha a costa leste dos Estados Unidos?",
+        "correct_answer": "Atlântico",
+        "incorrect_answers": ["Pacífico", "Índico", "Ártico", "Antártico"]
+      },
+      {
+        "question": "Qual é o país famoso por seus cangurus?",
+        "correct_answer": "Austrália",
+        "incorrect_answers": ["Nova Zelândia", "Canadá", "África do Sul", "Brasil"]
+      },
+      {
+        "question": "Qual é o maior estado dos Estados Unidos?",
+        "correct_answer": "Alasca",
+        "incorrect_answers": ["Texas", "Califórnia", "Flórida", "Nova Iorque"]
+      },
+      {
+        "question": "Qual é a capital da Grécia?",
+        "correct_answer": "Atenas",
+        "incorrect_answers": ["Salônica", "Patras", "Heraclion", "Náuplia"]
+      },
+      {
+        "question": "Qual país tem a forma de um sapato?",
+        "correct_answer": "Itália",
+        "incorrect_answers": ["França", "Espanha", "Grecia", "Portugal"]
+      },
+      {
+        "question": "Qual é o deserto mais frio do mundo?",
+        "correct_answer": "Antártida",
+        "incorrect_answers": ["Sahara", "Gobi", "Atacama", "Kalahari"]
+      },
+      {
+        "question": "Qual é a capital do Egito?",
+        "correct_answer": "Cairo",
+        "incorrect_answers": ["Alexandria", "Luxor", "Aswan", "Giza"]
+      },
+      {
+        "question": "Qual é a capital da Suécia?",
+        "correct_answer": "Estocolmo",
+        "incorrect_answers": ["Gotemburgo", "Malmö", "Uppsala", "Linköping"]
+      },
+      {
+        "question": "Qual é o maior lago da África?",
+        "correct_answer": "Lago Vitória",
+        "incorrect_answers": ["Lago Tanganica", "Lago Malauí", "Lago Chad", "Lago Albert"]
+      },
+      {
+        "question": "Qual é a capital do México?",
+        "correct_answer": "Cidade do México",
+        "incorrect_answers": ["Guadalajara", "Monterrey", "Cancún", "Puebla"]
+      }
+    ],
+    "medium": [
+      {
+        "question": "Qual é o país mais extenso do mundo?",
+        "correct_answer": "Rússia",
+        "incorrect_answers": ["Canadá", "China", "Estados Unidos", "Brasil"]
+      },
+      {
+        "question": "Qual é a capital da Itália?",
+        "correct_answer": "Roma",
+        "incorrect_answers": ["Milão", "Veneza", "Nápoles", "Turim"]
+      },
+      {
+        "question": "Em que continente está localizado o Egito?",
+        "correct_answer": "África",
+        "incorrect_answers": ["Ásia", "América", "Europa", "Oceania"]
+      },
+      {
+        "question": "Qual é o maior país da África?",
+        "correct_answer": "Argélia",
+        "incorrect_answers": ["Sudão", "Egito", "Nigéria", "África do Sul"]
+      },
+      {
+        "question": "Qual é a capital do Canadá?",
+        "correct_answer": "Ottawa",
+        "incorrect_answers": ["Toronto", "Vancouver", "Montreal", "Calgary"]
+      },
+      {
+        "question": "Qual é o maior lago do mundo?",
+        "correct_answer": "Mar Cáspio",
+        "incorrect_answers": ["Lago Superior", "Lago Vitória", "Lago Baikal", "Lago Titicaca"]
+      },
+      {
+        "question": "Qual é a cordilheira mais longa do mundo?",
+        "correct_answer": "Andes",
+        "incorrect_answers": ["Himalaia", "Alpes", "Rocosas", "Apalaches"]
+      },
+      {
+        "question": "Qual é a capital da Espanha?",
+        "correct_answer": "Madri",
+        "incorrect_answers": ["Barcelona", "Sevilha", "Valência", "Bilbau"]
+      },
+      {
+        "question": "Qual é a capital da Alemanha?",
+        "correct_answer": "Berlim",
+        "incorrect_answers": ["Munique", "Frankfurt", "Hamburgo", "Colônia"]
+      },
+      {
+        "question": "Qual é o país com mais ilhas do mundo?",
+        "correct_answer": "Suécia",
+        "incorrect_answers": ["Finlândia", "Indonésia", "Filipinas", "Grécia"]
+      },
+      {
+        "question": "Qual é a capital da Turquia?",
+        "correct_answer": "Ankara",
+        "incorrect_answers": ["Istambul", "Izmir", "Antália", "Bursa"]
+      },
+      {
+        "question": "Qual é o país que tem mais de 1.000 ilhas?",
+        "correct_answer": "Grécia",
+        "incorrect_answers": ["Malásia", "Filipinas", "Suécia", "Japão"]
+      },
+      {
+        "question": "Qual é o maior rio da África?",
+        "correct_answer": "Nilo",
+        "incorrect_answers": ["Congo", "Níger", "Zambeze", "Tanger"]
+      },
+      {
+        "question": "Qual é a capital da Noruega?",
+        "correct_answer": "Oslo",
+        "incorrect_answers": ["Estocolmo", "Copenhague", "Helsinque", "Reiquiavique"]
+      },
+      {
+        "question": "Qual país é conhecido como a terra dos mil lagos?",
+        "correct_answer": "Finlândia",
+        "incorrect_answers": ["Suécia", "Canadá", "Noruega", "Rússia"]
+      },
+      {
+        "question": "Qual é a capital da Nova Zelândia?",
+        "correct_answer": "Wellington",
+        "incorrect_answers": ["Auckland", "Christchurch", "Hamilton", "Dunedin"]
+      },
+      {
+        "question": "Qual é o país mais populoso da África?",
+        "correct_answer": "Nigéria",
+        "incorrect_answers": ["Egito", "África do Sul", "Etiópia", "Argélia"]
+      },
+      {
+        "question": "Qual é a capital do Brasil?",
+        "correct_answer": "Brasília",
+        "incorrect_answers": ["Rio de Janeiro", "São Paulo", "Salvador", "Fortaleza"]
+      },
+      {
+        "question": "Qual é a principal montanha da Cordilheira dos Andes?",
+        "correct_answer": "Aconcágua",
+        "incorrect_answers": ["Montanha de Salcantay", "Montanha de Chimborazo", "Montanha de Huayna Picchu", "Montanha de Cotopaxi"]
+      },
+      {
+        "question": "Qual é o país da cidade de Petra?",
+        "correct_answer": "Jordânia",
+        "incorrect_answers": ["Iraque", "Egito", "Síria", "Arábia Saudita"]
+      },
+      {
+        "question": "Qual é a capital da Finlândia?",
+        "correct_answer": "Helsinque",
+        "incorrect_answers": ["Estocolmo", "Oslo", "Copenhague", "Tallinn"]
+      },
+      {
+        "question": "Qual é o maior deserto do mundo?",
+        "correct_answer": "Antártida",
+        "incorrect_answers": ["Sahara", "Gobi", "Kalahari", "Atacama"]
+      },
+      {
+        "question": "Qual é a capital da Indonésia?",
+        "correct_answer": "Jacarta",
+        "incorrect_answers": ["Bali", "Surabaya", "Bandung", "Medan"]
+      },
+      {
+        "question": "Qual é o país mais montanhoso do mundo?",
+        "correct_answer": "Nepal",
+        "incorrect_answers": ["Suíça", "Índia", "Chile", "Estados Unidos"]
+      },
+      {
+        "question": "Qual é a capital da Argentina?",
+        "correct_answer": "Buenos Aires",
+        "incorrect_answers": ["Córdoba", "Rosário", "Mendoza", "La Plata"]
+      },
+      {
+        "question": "Qual é a capital do Chile?",
+        "correct_answer": "Santiago",
+        "incorrect_answers": ["Valparaíso", "Concepción", "Antofagasta", "La Serena"]
+      }
+    ],
+    "hard": [
+      {
+        "question": "Qual é o menor país do mundo?",
+        "correct_answer": "Vaticano",
+        "incorrect_answers": ["Mônaco", "Nauru", "Tuvalu", "Malta"]
+      },
+      {
+        "question": "Qual é a capital da Islândia?",
+        "correct_answer": "Reiquiavique",
+        "incorrect_answers": ["Oslo", "Copenhague", "Helsinque", "Estocolmo"]
+      },
+      {
+        "question": "Qual é o rio mais extenso da América do Sul?",
+        "correct_answer": "Amazonas",
+        "incorrect_answers": ["Paraná", "Uruguai", "São Francisco", "Tocantins"]
+      },
+      {
+        "question": "Qual é o país com mais fronteiras terrestres?",
+        "correct_answer": "China",
+        "incorrect_answers": ["Rússia", "Brasil", "Alemanha", "Argentina"]
+      },
+      {
+        "question": "Qual é o país europeu com mais vulcões ativos?",
+        "correct_answer": "Islândia",
+        "incorrect_answers": ["Itália", "Grecia", "Portugal", "França"]
+      },
+      {
+        "question": "Qual é o maior arquipélago do mundo?",
+        "correct_answer": "Indonésia",
+        "incorrect_answers": ["Filipinas", "Japão", "Malásia", "Maldivas"]
+      },
+      {
+        "question": "Qual é o deserto mais quente do mundo?",
+        "correct_answer": "Sahara",
+        "incorrect_answers": ["Atacama", "Gobi", "Kalahari", "Sonora"]
+      },
+      {
+        "question": "Qual é a capital do Quirguistão?",
+        "correct_answer": "Bishkek",
+        "incorrect_answers": ["Tashkent", "Astana", "Dushanbe", "Almaty"]
+      },
+      {
+        "question": "Qual é a capital da Nova Zelândia?",
+        "correct_answer": "Wellington",
+        "incorrect_answers": ["Auckland", "Christchurch", "Hamilton", "Dunedin"]
+      },
+      {
+        "question": "Qual é o nome da linha imaginária que divide a Terra em hemisférios?",
+        "correct_answer": "Equador",
+        "incorrect_answers": ["Meridiano de Greenwich", "Círculo Polar Ártico", "Trópico de Câncer", "Trópico de Capricórnio"]
+      },
+      {
+        "question": "Qual é a capital do Bahrein?",
+        "correct_answer": "Manama",
+        "incorrect_answers": ["Doha", "Riyad", "Abu Dhabi", "Kuwait"]
+      },
+      {
+        "question": "Qual é o maior país da América do Sul?",
+        "correct_answer": "Brasil",
+        "incorrect_answers": ["Argentina", "Chile", "Colômbia", "Peru"]
+      },
+      {
+        "question": "Qual é a capital da Armênia?",
+        "correct_answer": "Erevan",
+        "incorrect_answers": ["Tbilisi", "Baku", "Tashkent", "Astana"]
+      },
+      {
+        "question": "Qual é o país com mais de uma capital?",
+        "correct_answer": "África do Sul",
+        "incorrect_answers": ["Suíça", "Austrália", "México", "Brasil"]
+      },
+      {
+        "question": "Qual é o nome do maior vulcão do mundo?",
+        "correct_answer": "Olympos Mons",
+        "incorrect_answers": ["Kilimanjaro", "Everest", "Mauna Kea", "Etna"]
+      },
+      {
+        "question": "Qual é a capital da Moldávia?",
+        "correct_answer": "Quixinau",
+        "incorrect_answers": ["Chisinau", "Bucareste", "Kiev", "Sofia"]
+      },
+      {
+        "question": "Qual é o rio mais longo da Ásia?",
+        "correct_answer": "Yangtze",
+        "incorrect_answers": ["Nilo", "Ganges", "Mekong", "Amur"]
+      },
+      {
+        "question": "Qual é a capital do Quirguistão?",
+        "correct_answer": "Bishkek",
+        "incorrect_answers": ["Tashkent", "Astana", "Dushanbe", "Almaty"]
+      },
+      {
+        "question": "Qual é o país mais pequeno da Europa?",
+        "correct_answer": "Mônaco",
+        "incorrect_answers": ["Vaticano", "São Marinho", "Liechtenstein", "Malta"]
+      },
+      {
+        "question": "Qual é a capital de Malta?",
+        "correct_answer": "Valletta",
+        "incorrect_answers": ["La Valeta", "Birkirkara", "Sliema", "Gozo"]
+      },
+      {
+        "question": "Qual é o país que tem o maior número de fronteiras terrestres?",
+        "correct_answer": "China",
+        "incorrect_answers": ["Brasil", "Alemanha", "Rússia", "Índia"]
+      },
+      {
+        "question": "Qual é a capital de Timor-Leste?",
+        "correct_answer": "Dili",
+        "incorrect_answers": ["Bali", "Nairobi", "Javarta", "Hanoi"]
+      },
+      {
+        "question": "Qual é o país europeu conhecido por suas paisagens vulcânicas?",
+        "correct_answer": "Islândia",
+        "incorrect_answers": ["Itália", "França", "Grécia", "Espanha"]
+      },
+      {
+        "question": "Qual é o continente que contém mais países?",
+        "correct_answer": "África",
+        "incorrect_answers": ["Ásia", "Europa", "América", "Oceania"]
+      },
+      {
+        "question": "Qual é a capital da Guiné?",
+        "correct_answer": "Conacri",
+        "incorrect_answers": ["Bamako", "Dacar", "Freetown", "Abidjan"]
+      },
+      {
+        "question": "Qual é o país que possui a maior quantidade de línguas oficiais?",
+        "correct_answer": "Papua-Nova Guiné",
+        "incorrect_answers": ["Suíça", "Canadá", "Indonésia", "África do Sul"]
+      }
+    ]
+  },
+  "astronomia":{
+    "easy":[
+      {
+        "question": "Qual é o maior planeta do sistema solar?",
+        "correct_answer": "Júpiter",
+        "incorrect_answers": ["Terra", "Marte", "Saturno", "Netuno"]
+      },
+      {
+        "question": "Quantos planetas existem no sistema solar?",
+        "correct_answer": "8",
+        "incorrect_answers": ["9", "7", "6", "10"]
+      },
+      {
+        "question": "Qual é a estrela mais próxima da Terra?",
+        "correct_answer": "Sol",
+        "incorrect_answers": ["Sirius", "Proxima", "Alpha", "Betelgeuse"]
+      },
+      {
+        "question": "O que causa as estações do ano?",
+        "correct_answer": "Inclinação",
+        "incorrect_answers": ["Distância", "Rotação", "Órbita", "Tamanho"]
+      },
+      {
+        "question": "Qual planeta é conhecido como o planeta vermelho?",
+        "correct_answer": "Marte",
+        "incorrect_answers": ["Júpiter", "Terra", "Vênus", "Saturno"]
+      },
+      {
+        "question": "O que é uma supernova?",
+        "correct_answer": "Estrela morrendo",
+        "incorrect_answers": ["Estrela nova", "Buraco negro", "Asteroide", "Planeta"]
+      },
+      {
+        "question": "Qual é o nosso planeta?",
+        "correct_answer": "Terra",
+        "incorrect_answers": ["Marte", "Vênus", "Saturno", "Netuno"]
+      },
+      {
+        "question": "Qual é o satélite natural da Terra?",
+        "correct_answer": "Lua",
+        "incorrect_answers": ["Fobos", "Deimos", "Titã", "Europa"]
+      },
+      {
+        "question": "Quantas luas tem Júpiter?",
+        "correct_answer": "79",
+        "incorrect_answers": ["60", "50", "20", "10"]
+      },
+      {
+        "question": "Qual planeta tem anéis?",
+        "correct_answer": "Saturno",
+        "incorrect_answers": ["Terra", "Marte", "Vênus", "Mercúrio"]
+      },
+      {
+        "question": "O que é um cometa?",
+        "correct_answer": "Corpo de gelo",
+        "incorrect_answers": ["Asteroide", "Estrela", "Planeta", "Nebulosa"]
+      },
+      {
+        "question": "Qual planeta é conhecido como o gigante gasoso?",
+        "correct_answer": "Júpiter",
+        "incorrect_answers": ["Terra", "Marte", "Saturno", "Netuno"]
+      },
+      {
+        "question": "Qual é o nome da nossa galáxia?",
+        "correct_answer": "Via Láctea",
+        "incorrect_answers": ["Andrômeda", "Sombrero", "Whirlpool", "Triângulo"]
+      },
+      {
+        "question": "Quantas estrelas há na Via Láctea?",
+        "correct_answer": "100 bilhões",
+        "incorrect_answers": ["1 trilhão", "10 bilhões", "500 bilhões", "5 bilhões"]
+      },
+      {
+        "question": "Qual é o planeta mais próximo do Sol?",
+        "correct_answer": "Mercúrio",
+        "incorrect_answers": ["Vênus", "Terra", "Marte", "Netuno"]
+      },
+      {
+        "question": "O que é uma galáxia?",
+        "correct_answer": "Grupo de estrelas",
+        "incorrect_answers": ["Estrela única", "Planeta", "Cometa", "Lua"]
+      },
+      {
+        "question": "Qual planeta tem a maior gravidade?",
+        "correct_answer": "Júpiter",
+        "incorrect_answers": ["Terra", "Marte", "Vênus", "Saturno"]
+      },
+      {
+        "question": "O que é um buraco negro?",
+        "correct_answer": "Campo gravitacional",
+        "incorrect_answers": ["Estrela", "Planeta", "Galáxia", "Cometa"]
+      },
+      {
+        "question": "Qual é o nome do primeiro homem no espaço?",
+        "correct_answer": "Gagarin",
+        "incorrect_answers": ["Armstrong", "Aldrin", "Collins", "Shepard"]
+      },
+      {
+        "question": "Qual planeta tem uma lua chamada Titã?",
+        "correct_answer": "Saturno",
+        "incorrect_answers": ["Júpiter", "Marte", "Vênus", "Terra"]
+      }
+    ],
+    "medium":[
+      {
+        "question": "Qual é o planeta mais próximo do Sol?",
+        "correct_answer": "Mercúrio",
+        "incorrect_answers": ["Vênus", "Terra", "Marte", "Netuno"]
+      },
+      {
+        "question": "Qual é a maior lua de Saturno?",
+        "correct_answer": "Titã",
+        "incorrect_answers": ["Europa", "Ganimedes", "Fobos", "Deimos"]
+      },
+      {
+        "question": "Qual planeta é conhecido como o Planeta Vermelho?",
+        "correct_answer": "Marte",
+        "incorrect_answers": ["Vênus", "Júpiter", "Saturno", "Mercúrio"]
+      },
+      {
+        "question": "O que é um buraco negro?",
+        "correct_answer": "Zona sem luz",
+        "incorrect_answers": ["Estrela morta", "Asteroide", "Cometa", "Planeta"]
+      },
+      {
+        "question": "Quantas luas tem Júpiter?",
+        "correct_answer": "79 luas",
+        "incorrect_answers": ["53 luas", "63 luas", "45 luas", "39 luas"]
+      },
+      {
+        "question": "Qual é a estrela mais próxima da Terra?",
+        "correct_answer": "Proxima Centauri",
+        "incorrect_answers": ["Sirius", "Vega", "Betelgeuse", "Aldebaran"]
+      },
+      {
+        "question": "Qual é o maior planeta do Sistema Solar?",
+        "correct_answer": "Júpiter",
+        "incorrect_answers": ["Saturno", "Netuno", "Urano", "Terra"]
+      },
+      {
+        "question": "O que causa as estações do ano?",
+        "correct_answer": "Inclinação da Terra",
+        "incorrect_answers": ["Distância do Sol", "Rotação da Terra", "Fases da Lua", "Magnetismo"]
+      },
+      {
+        "question": "Quantos planetas existem no Sistema Solar?",
+        "correct_answer": "8 planetas",
+        "incorrect_answers": ["9 planetas", "7 planetas", "10 planetas", "6 planetas"]
+      },
+      {
+        "question": "Qual é o planeta anão mais conhecido?",
+        "correct_answer": "Plutão",
+        "incorrect_answers": ["Eris", "Haumea", "Makemake", "Ceres"]
+      },
+      {
+        "question": "O que é uma supernova?",
+        "correct_answer": "Explosão estelar",
+        "incorrect_answers": ["Nuvem de gás", "Buraco negro", "Planeta gigante", "Asteroide"]
+      },
+      {
+        "question": "Qual é o maior anel planetário?",
+        "correct_answer": "Saturno",
+        "incorrect_answers": ["Júpiter", "Urano", "Netuno", "Marte"]
+      },
+      {
+        "question": "Qual é a composição da Lua?",
+        "correct_answer": "Rochas e poeira",
+        "incorrect_answers": ["Água", "Gelo", "Gás", "Plantas"]
+      },
+      {
+        "question": "Qual galáxia é a nossa?",
+        "correct_answer": "Via Láctea",
+        "incorrect_answers": ["Andrômeda", "Sombrero", "Triângulo", "Cigarro"]
+      },
+      {
+        "question": "O que é um meteoro?",
+        "correct_answer": "Estrela cadente",
+        "incorrect_answers": ["Cometa", "Asteroide", "Satélite", "Lua"]
+      },
+      {
+        "question": "Qual é o maior satélite natural da Terra?",
+        "correct_answer": "A Lua",
+        "incorrect_answers": ["Fobos", "Deimos", "Titã", "Europa"]
+      },
+      {
+        "question": "O que é a Via Láctea?",
+        "correct_answer": "Galáxia da Terra",
+        "incorrect_answers": ["Planeta", "Estrela", "Constelação", "Buraco negro"]
+      },
+      {
+        "question": "Qual é o fenômeno das auroras?",
+        "correct_answer": "Luzes polares",
+        "incorrect_answers": ["Terremoto", "Tempestade", "Eclipse", "Furacão"]
+      },
+      {
+        "question": "Qual é a distância da Terra ao Sol?",
+        "correct_answer": "93 milhões",
+        "incorrect_answers": ["1 milhão", "50 milhões", "150 milhões", "200 milhões"]
+      },
+      {
+        "question": "Qual é a força que mantém os planetas?",
+        "correct_answer": "Gravidade",
+        "incorrect_answers": ["Magnetismo", "Pressão", "Força elétrica", "Inércia"]
+      }
+    ],
+    "hard": [
+      {
+        "question": "Qual é a maior lua de Júpiter?",
+        "correct_answer": "Ganimedes",
+        "incorrect_answers": ["Europa", "Calisto", "Io", "Titan"]
+      },
+      {
+        "question": "O que causa as fases da Lua?",
+        "correct_answer": "Posição relativa",
+        "incorrect_answers": ["Sombra da Terra", "Eclipse lunar", "Eclipse solar", "Órbita do Sol"]
+      },
+      {
+        "question": "Qual planeta é conhecido como o planeta vermelho?",
+        "correct_answer": "Marte",
+        "incorrect_answers": ["Vênus", "Júpiter", "Mercúrio", "Saturno"]
+      },
+      {
+        "question": "Qual é a estrela mais próxima da Terra?",
+        "correct_answer": "Proxima Centauri",
+        "incorrect_answers": ["Sirius", "Alpha Centauri", "Betelgeuse", "Rigel"]
+      },
+      {
+        "question": "O que é uma supernova?",
+        "correct_answer": "Explosão estelar",
+        "incorrect_answers": ["Buraco negro", "Asteroide", "Cometa", "Estrela nova"]
+      },
+      {
+        "question": "Qual planeta tem anéis visíveis?",
+        "correct_answer": "Saturno",
+        "incorrect_answers": ["Júpiter", "Urano", "Netuno", "Mercúrio"]
+      },
+      {
+        "question": "Quantas galáxias existem no universo?",
+        "correct_answer": "Incontáveis",
+        "incorrect_answers": ["Milhões", "Bilhões", "Trilhões", "Milhares"]
+      },
+      {
+        "question": "O que é um quasar?",
+        "correct_answer": "Núcleo galáctico",
+        "incorrect_answers": ["Estrela variável", "Buraco negro", "Cometa", "Asteroide"]
+      },
+      {
+        "question": "Qual é o maior planeta do sistema solar?",
+        "correct_answer": "Júpiter",
+        "incorrect_answers": ["Saturno", "Urano", "Netuno", "Terra"]
+      },
+      {
+        "question": "Qual é a temperatura na superfície de Vênus?",
+        "correct_answer": "450°C",
+        "incorrect_answers": ["100°C", "300°C", "600°C", "200°C"]
+      },
+      {
+        "question": "Qual é o principal componente da atmosfera de Marte?",
+        "correct_answer": "Dióxido de carbono",
+        "incorrect_answers": ["Nitrogênio", "Oxigênio", "Hidrogênio", "Argônio"]
+      },
+      {
+        "question": "O que é um buraco negro?",
+        "correct_answer": "Campo gravitacional",
+        "incorrect_answers": ["Asteroide", "Cometa", "Estrela", "Galáxia"]
+      },
+      {
+        "question": "Qual planeta é conhecido por seus ventos fortes?",
+        "correct_answer": "Netuno",
+        "incorrect_answers": ["Saturno", "Urano", "Júpiter", "Marte"]
+      },
+      {
+        "question": "Qual é a nossa galáxia?",
+        "correct_answer": "Via Láctea",
+        "incorrect_answers": ["Andrômeda", "Triângulo", "Sombrero", "Whirlpool"]
+      },
+      {
+        "question": "Quantas luas tem Marte?",
+        "correct_answer": "Duas",
+        "incorrect_answers": ["Uma", "Três", "Quatro", "Cinco"]
+      },
+      {
+        "question": "Qual é a distância da Terra ao Sol?",
+        "correct_answer": "149,6 milhões km",
+        "incorrect_answers": ["100 milhões km", "200 milhões km", "50 milhões km", "300 milhões km"]
+      },
+      {
+        "question": "O que é a Via Láctea?",
+        "correct_answer": "Galáxia espiral",
+        "incorrect_answers": ["Nebulosa", "Estrela", "Cometa", "Buraco negro"]
+      },
+      {
+        "question": "Quem propôs a teoria do Big Bang?",
+        "correct_answer": "Georges Lemaître",
+        "incorrect_answers": ["Einstein", "Hubble", "Newton", "Hawking"]
+      },
+      {
+        "question": "O que são exoplanetas?",
+        "correct_answer": "Planetas fora do Sol",
+        "incorrect_answers": ["Asteroides", "Cometas", "Estrelas", "Luas"]
+      },
+      {
+        "question": "Qual é a velocidade da luz?",
+        "correct_answer": "300.000 km/s",
+        "incorrect_answers": ["150.000 km/s", "400.000 km/s", "500.000 km/s", "600.000 km/s"]
+      }
+    ]
+      
+  },
+  "cinema":{
+    "easy":[
+      {
+        "question": "Qual filme tem um tubarão famoso?",
+        "correct_answer": "Tubarão",
+        "incorrect_answers": ["Titanic", "Alien", "Gladiador", "Avatar"]
+      },
+      {
+        "question": "Quem é o personagem principal de 'Harry Potter'?",
+        "correct_answer": "Harry Potter",
+        "incorrect_answers": ["Ron Weasley", "Draco", "Dumbledore", "Hagrid"]
+      },
+      {
+        "question": "Qual filme é sobre carros de corrida?",
+        "correct_answer": "Velozes e Furiosos",
+        "incorrect_answers": ["Transformers", "Toy Story", "Avatar", "Dunkirk"]
+      },
+      {
+        "question": "Quem é o herói de 'Batman'?",
+        "correct_answer": "Bruce Wayne",
+        "incorrect_answers": ["Clark Kent", "Peter Parker", "Tony Stark", "Wade Wilson"]
+      },
+      {
+        "question": "Qual é o nome do peixe em 'Procurando Nemo'?",
+        "correct_answer": "Nemo",
+        "incorrect_answers": ["Dory", "Bruce", "Gill", "Marlin"]
+      },
+      {
+        "question": "Qual filme tem uma boneca chamada Chucky?",
+        "correct_answer": "Brinquedo Assassino",
+        "incorrect_answers": ["Annabelle", "It", "O Exorcista", "Sexta-Feira 13"]
+      },
+      {
+        "question": "Qual é o tema de 'O Rei Leão'?",
+        "correct_answer": "Ciclo da Vida",
+        "incorrect_answers": ["Amizade", "Amor", "Vingança", "Família"]
+      },
+      {
+        "question": "Quem é o diretor de 'Jurassic Park'?",
+        "correct_answer": "Steven Spielberg",
+        "incorrect_answers": ["James Cameron", "Tarantino", "Nolan", "Lucas"]
+      },
+      {
+        "question": "Qual o filme com a frase 'Que a força esteja com você'?",
+        "correct_answer": "Star Wars",
+        "incorrect_answers": ["Star Trek", "Avatar", "Matrix", "Inception"]
+      },
+      {
+        "question": "Quem é o personagem principal de 'Titanic'?",
+        "correct_answer": "Jack Dawson",
+        "incorrect_answers": ["Rose", "Cal", "Fabrizio", "Molly"]
+      },
+      {
+        "question": "Qual é a animação da Pixar sobre brinquedos?",
+        "correct_answer": "Toy Story",
+        "incorrect_answers": ["Monstros S.A.", "Procurando Dory", "Carros", "Up"]
+      },
+      {
+        "question": "Qual filme tem um robô chamado WALL-E?",
+        "correct_answer": "WALL-E",
+        "incorrect_answers": ["Robocop", "Transformers", "Blade Runner", "Chappie"]
+      },
+      {
+        "question": "Qual é o vilão de 'Os Incríveis'?",
+        "correct_answer": "Síndrom",
+        "incorrect_answers": ["Frozone", "Edna", "Violet", "Dash"]
+      },
+      {
+        "question": "Qual é a princesa de 'A Pequena Sereia'?",
+        "correct_answer": "Ariel",
+        "incorrect_answers": ["Belle", "Cinderela", "Branca de Neve", "Jasmine"]
+      },
+      {
+        "question": "Quem canta em 'O Rei do Show'?",
+        "correct_answer": "Hugh Jackman",
+        "incorrect_answers": ["Ryan Reynolds", "Zac Efron", "Justin Timberlake", "Chris Pratt"]
+      },
+      {
+        "question": "Qual é o nome do herói de 'Piratas do Caribe'?",
+        "correct_answer": "Jack Sparrow",
+        "incorrect_answers": ["Will Turner", "Davy Jones", "Barbossa", "Bootstrap"]
+      },
+      {
+        "question": "Qual é o filme de animação sobre um ratinho cozinheiro?",
+        "correct_answer": "Ratatouille",
+        "incorrect_answers": ["Coco", "Up", "Soul", "Inside Out"]
+      },
+      {
+        "question": "Qual o filme que tem o robô Optimus Prime?",
+        "correct_answer": "Transformers",
+        "incorrect_answers": ["Transformers 2", "Pacific Rim", "Real Steel", "Terminator"]
+      },
+      {
+        "question": "Qual é o filme sobre um panda lutador?",
+        "correct_answer": "Kung Fu Panda",
+        "incorrect_answers": ["Madagascar", "Os Croods", "Shrek", "Rio"]
+      },
+      {
+        "question": "Quem é o protagonista de 'Gladiador'?",
+        "correct_answer": "Maximus",
+        "incorrect_answers": ["Commodus", "Lucilla", "Proximo", "Juba"]
+      }
+    ],
+    "medium":[
+      {
+        "question": "Qual filme ganhou o Oscar em 2020?",
+        "correct_answer": "Parasita",
+        "incorrect_answers": ["1917", "Jojo Rabbit", "Ford vs Ferrari", "É uma pena"]
+      },
+      {
+        "question": "Quem é o diretor de 'Inception'?",
+        "correct_answer": "Christopher Nolan",
+        "incorrect_answers": ["Steven Spielberg", "Tarantino", "James Cameron", "Ridley Scott"]
+      },
+      {
+        "question": "Qual filme tem o personagem 'Jack Sparrow'?",
+        "correct_answer": "Piratas do Caribe",
+        "incorrect_answers": ["O Senhor dos Anéis", "Star Wars", "Indiana Jones", "Transformers"]
+      },
+      {
+        "question": "Qual filme é sobre um tubarão assassino?",
+        "correct_answer": "Tubarão",
+        "incorrect_answers": ["A Corrente do Mal", "A Onda", "O Náufrago", "A Ilha"]
+      },
+      {
+        "question": "Quem interpreta o 'Wolverine' nos filmes?",
+        "correct_answer": "Hugh Jackman",
+        "incorrect_answers": ["Ryan Reynolds", "Chris Hemsworth", "Robert Downey Jr.", "Tom Hardy"]
+      },
+      {
+        "question": "Qual filme é baseado em uma história real?",
+        "correct_answer": "A Teoria de Tudo",
+        "incorrect_answers": ["Os Vingadores", "Harry Potter", "Jurassic Park", "Avatar"]
+      },
+      {
+        "question": "Quem fez a trilha sonora de 'Star Wars'?",
+        "correct_answer": "John Williams",
+        "incorrect_answers": ["Hans Zimmer", "Danny Elfman", "Ennio Morricone", "Alan Silvestri"]
+      },
+      {
+        "question": "Qual o nome da princesa em 'O Rei Leão'?",
+        "correct_answer": "Nala",
+        "incorrect_answers": ["Simba", "Kiara", "Mufasa", "Zazu"]
+      },
+      {
+        "question": "Qual filme tem o personagem 'Forrest Gump'?",
+        "correct_answer": "Forrest Gump",
+        "incorrect_answers": ["O Poderoso Chefão", "Clube da Luta", "Pulp Fiction", "Titanic"]
+      },
+      {
+        "question": "Em qual filme aparece o 'T-Rex'?",
+        "correct_answer": "Jurassic Park",
+        "incorrect_answers": ["Godzilla", "Transformers", "Avatar", "King Kong"]
+      },
+      {
+        "question": "Qual filme é sobre um super-herói cego?",
+        "correct_answer": "Demolidor",
+        "incorrect_answers": ["Batman", "Homem-Aranha", "Superman", "Hulk"]
+      },
+      {
+        "question": "Quem é a protagonista de 'A Forma da Água'?",
+        "correct_answer": "Sally Hawkins",
+        "incorrect_answers": ["Emma Stone", "Natalie Portman", "Jennifer Lawrence", "Meryl Streep"]
+      },
+      {
+        "question": "Qual filme é sobre um avião desaparecido?",
+        "correct_answer": "Voo 7500",
+        "incorrect_answers": ["Aviões", "Sully", "O Terminal", "Perdido em Marte"]
+      },
+      {
+        "question": "Quem é o ator de 'Titanic'?",
+        "correct_answer": "Leonardo DiCaprio",
+        "incorrect_answers": ["Brad Pitt", "Johnny Depp", "Matt Damon", "Tom Hanks"]
+      },
+      {
+        "question": "Qual filme tem 'Os Vingadores'?",
+        "correct_answer": "Os Vingadores",
+        "incorrect_answers": ["Justice League", "X-Men", "Quarteto Fantástico", "Deadpool"]
+      },
+      {
+        "question": "Qual filme é sobre um mutante azul?",
+        "correct_answer": "X-Men",
+        "incorrect_answers": ["Os Vingadores", "Avengers", "Justice League", "Blade"]
+      },
+      {
+        "question": "Qual filme tem uma casa assombrada?",
+        "correct_answer": "A Casa do Lago",
+        "incorrect_answers": ["O Chamado", "Atividade Paranormal", "Os Outros", "A Visita"]
+      },
+      {
+        "question": "Qual filme é estrelado por 'Keanu Reeves'?",
+        "correct_answer": "John Wick",
+        "incorrect_answers": ["Matrix", "Constantine", "Velocidade Máxima", "Duro de Matar"]
+      },
+      {
+        "question": "Qual filme é sobre uma guerra entre robôs?",
+        "correct_answer": "Transformers",
+        "incorrect_answers": ["Pacific Rim", "Terminator", "Blade Runner", "I, Robot"]
+      },
+      {
+        "question": "Qual é o nome do super-herói da DC?",
+        "correct_answer": "Batman",
+        "incorrect_answers": ["Spider-Man", "Iron Man", "Aquaman", "Thor"]
+      },
+      {
+        "question": "Qual é a animação sobre um caracol veloz?",
+        "correct_answer": "Turbo",
+        "incorrect_answers": ["Carros", "Os Incríveis", "Ratatouille", "Wallace & Gromit"]
+      }
+    ]
+    ,
+    "hard": [
+      {
+        "question": "Quem dirigiu 'A Origem'?",
+        "correct_answer": "Christopher Nolan",
+        "incorrect_answers": [
+          "David Fincher",
+          "Quentin Tarantino",
+          "Ridley Scott",
+          "Martin Scorsese"
+        ]
+      },
+      {
+        "question": "Qual o filme mais longo da história?",
+        "correct_answer": "O Irlandês",
+        "incorrect_answers": [
+          "Titanic",
+          "Ben-Hur",
+          "O Senhor dos Anéis",
+          "Cleópatra"
+        ]
+      },
+      {
+        "question": "Quem ganhou o Oscar por 'A Forma da Água'?",
+        "correct_answer": "Guillermo del Toro",
+        "incorrect_answers": [
+          "Alfonso Cuarón",
+          "Martin Scorsese",
+          "Steven Spielberg",
+          "Danny Boyle"
+        ]
+      },
+      {
+        "question": "Qual é o filme mais caro já feito?",
+        "correct_answer": "Piratas do Caribe",
+        "incorrect_answers": [
+          "Avengers: Endgame",
+          "Avatar",
+          "Harry Potter",
+          "Star Wars"
+        ]
+      },
+      {
+        "question": "Em que ano saiu 'Matrix'?",
+        "correct_answer": "1999",
+        "incorrect_answers": [
+          "1995",
+          "2001",
+          "1997",
+          "2000"
+        ]
+      },
+      {
+        "question": "Qual filme teve mais bilheteiras?",
+        "correct_answer": "Avatar",
+        "incorrect_answers": [
+          "Titanic",
+          "Star Wars",
+          "Avengers",
+          "Jurassic Park"
+        ]
+      },
+      {
+        "question": "Quem fez 'Cidadão Kane'?",
+        "correct_answer": "Orson Welles",
+        "incorrect_answers": [
+          "Alfred Hitchcock",
+          "Franco Zeffirelli",
+          "Stanley Kubrick",
+          "Billy Wilder"
+        ]
+      },
+      {
+        "question": "Qual o Oscar mais importante?",
+        "correct_answer": "Melhor Filme",
+        "incorrect_answers": [
+          "Melhor Diretor",
+          "Melhor Ator",
+          "Melhor Roteiro",
+          "Melhor Fotografia"
+        ]
+      },
+      {
+        "question": "Quem é o protagonista de 'Gladiador'?",
+        "correct_answer": "Russell Crowe",
+        "incorrect_answers": [
+          "Brad Pitt",
+          "Leonardo DiCaprio",
+          "Hugh Jackman",
+          "Tom Hardy"
+        ]
+      },
+      {
+        "question": "Qual o tema de 'O Pianista'?",
+        "correct_answer": "Holocausto",
+        "incorrect_answers": [
+          "Guerra Fria",
+          "Revolução",
+          "Amor Proibido",
+          "Crime"
+        ]
+      },
+      {
+        "question": "Qual a animação com mais Oscar?",
+        "correct_answer": "A Bela e a Fera",
+        "incorrect_answers": [
+          "O Rei Leão",
+          "Toy Story",
+          "Procurando Nemo",
+          "Os Incríveis"
+        ]
+      },
+      {
+        "question": "Quem fez 'Os Suspeitos'?",
+        "correct_answer": "Bryan Singer",
+        "incorrect_answers": [
+          "David Fincher",
+          "Christopher Nolan",
+          "Ridley Scott",
+          "Martin Scorsese"
+        ]
+      },
+      {
+        "question": "Qual é o filme de terror mais famoso?",
+        "correct_answer": "O Exorcista",
+        "incorrect_answers": [
+          "A Noite dos Mortos-Vivos",
+          "Sexta-Feira 13",
+          "Halloween",
+          "O Iluminado"
+        ]
+      },
+      {
+        "question": "Qual o filme de comédia mais icônico?",
+        "correct_answer": "Monty Python",
+        "incorrect_answers": [
+          "Se Beber Não Case",
+          "Os Caça-Fantasmas",
+          "Apertem os Cintos",
+          "Apertem os Cintos"
+        ]
+      },
+      {
+        "question": "Quem protagonizou 'Menina de Ouro'?",
+        "correct_answer": "Hilary Swank",
+        "incorrect_answers": [
+          "Meryl Streep",
+          "Natalie Portman",
+          "Anne Hathaway",
+          "Julia Roberts"
+        ]
+      },
+      {
+        "question": "Qual é o tema de 'O Clube da Luta'?",
+        "correct_answer": "Consumo",
+        "incorrect_answers": [
+          "Amor",
+          "Amizade",
+          "Guerra",
+          "Ambição"
+        ]
+      },
+      {
+        "question": "Quem dirigiu 'Pulp Fiction'?",
+        "correct_answer": "Quentin Tarantino",
+        "incorrect_answers": [
+          "David Fincher",
+          "Martin Scorsese",
+          "Ridley Scott",
+          "Wes Anderson"
+        ]
+      },
+      {
+        "question": "Qual o filme com mais continuações?",
+        "correct_answer": "Star Wars",
+        "incorrect_answers": [
+          "James Bond",
+          "Harry Potter",
+          "Missão Impossível",
+          "Batman"
+        ]
+      },
+      {
+        "question": "Qual o vilão de 'O Senhor dos Anéis'?",
+        "correct_answer": "Sauron",
+        "incorrect_answers": [
+          "Saruman",
+          "Gollum",
+          "Frodo",
+          "Aragorn"
+        ]
+      },
+      {
+        "question": "Quem fez 'O Grande Hotel Budapeste'?",
+        "correct_answer": "Wes Anderson",
+        "incorrect_answers": [
+          "Noah Baumbach",
+          "Taika Waititi",
+          "Martin Scorsese",
+          "Spike Jonze"
+        ]
+      }
+    ]
+      
+  },
+  "games":{
+    "easy":[
+      {
+        "question": "Qual é o personagem principal de Free Fire?",
+        "correct_answer": "Hayato",
+        "incorrect_answers": ["Dasha", "Kalahari", "Shirou", "Misha"]
+      },
+      {
+        "question": "Qual jogo tem o mapa de Kirat?",
+        "correct_answer": "Far Cry 4",
+        "incorrect_answers": ["Far Cry 3", "Far Cry 5", "Far Cry Primal", "Far Cry 6"]
+      },
+      {
+        "question": "Qual arma é famosa em CS:GO?",
+        "correct_answer": "AWP",
+        "incorrect_answers": ["M4A4", "AK-47", "FAMAS", "USP-S"]
+      },
+      {
+        "question": "Qual é a construção em Clash of Clans?",
+        "correct_answer": "Barraca",
+        "incorrect_answers": ["Aldeia", "Torre", "Armadilha", "Golem"]
+      },
+      {
+        "question": "Qual é o modo mais jogado no FIFA?",
+        "correct_answer": "Ultimate Team",
+        "incorrect_answers": ["Carreira", "Amistosos", "Volta", "Pro Clubs"]
+      },
+      {
+        "question": "Qual é o nome do mapa de Bermuda?",
+        "correct_answer": "Free Fire",
+        "incorrect_answers": ["Fortnite", "PUBG", "Apex", "Valorant"]
+      },
+      {
+        "question": "Quem é o vilão principal de Far Cry 3?",
+        "correct_answer": "Vaas",
+        "incorrect_answers": ["Pagan", "Joseph", "Citra", "Morrison"]
+      },
+      {
+        "question": "Qual é a função do bot em CS:GO?",
+        "correct_answer": "Ajudar jogadores",
+        "incorrect_answers": ["Plantar bomba", "Desarmar", "Atacar base", "Capturar"]
+      },
+      {
+        "question": "Qual recurso é essencial em Clash Of Clans?",
+        "correct_answer": "Elixir",
+        "incorrect_answers": ["Ouro", "Gema", "Tropa", "Muralha"]
+      },
+      {
+        "question": "Qual é o modo de jogo do FIFA?",
+        "correct_answer": "Online",
+        "incorrect_answers": ["Local", "Solo", "Co-op", "História"]
+      },
+      {
+        "question": "Qual é a skin mais famosa em CS:GO?",
+        "correct_answer": "Dragon Lore",
+        "incorrect_answers": ["Howl", "Fade", "Asiimov", "Karambit"]
+      },
+      {
+        "question": "Qual é a tropa mais forte em Clash Of Clans?",
+        "correct_answer": "Dragão",
+        "incorrect_answers": ["Arqueiro", "Guerreiro", "Bárbaro", "Bebê Dragão"]
+      },
+      {
+        "question": "Qual é o personagem de Free Fire?",
+        "correct_answer": "Klaus",
+        "incorrect_answers": ["Rafael", "Milo", "Nikki", "Fanny"]
+      },
+      {
+        "question": "Qual é o nome do lugar em Far Cry 5?",
+        "correct_answer": "Hope County",
+        "incorrect_answers": ["Rook Island", "Kirat", "Montanha", "Fogo"]
+      },
+      {
+        "question": "Qual é o ranking no CS:GO?",
+        "correct_answer": "Global",
+        "incorrect_answers": ["Prata", "Ouro", "Platina", "Bronze"]
+      },
+      {
+        "question": "Qual é a construção em Clash Of Clans?",
+        "correct_answer": "Centro",
+        "incorrect_answers": ["Mina", "Fábrica", "Torre", "Armadilha"]
+      },
+      {
+        "question": "Qual é a liga do FIFA?",
+        "correct_answer": "Champions",
+        "incorrect_answers": ["Europa", "Sul-Americana", "Premiership", "La Liga"]
+      },
+      {
+        "question": "Qual é o modo em Free Fire?",
+        "correct_answer": "Clássico",
+        "incorrect_answers": ["Ranqueada", "Duos", "Squad", "Solo"]
+      },
+      {
+        "question": "Qual é a arma mais cara em CS:GO?",
+        "correct_answer": "AWP",
+        "incorrect_answers": ["AK-47", "M4A4", "SG553", "UMP"]
+      },
+      {
+        "question": "Qual é o dragão em Clash Of Clans?",
+        "correct_answer": "Dragão Infernal",
+        "incorrect_answers": ["Dragão Azul", "Dragão Verde", "Dragão Arco-Íris", "Dragão Preto"]
+      }
+    ],
+    "medium":[
+      {
+        "question": "Qual é o nome do personagem principal de Far Cry?",
+        "correct_answer": "Jason Brody",
+        "incorrect_answers": ["Lara Croft", "John Marston", "Gordon Freeman", "Max Payne"]
+      },
+      {
+        "question": "Em qual jogo você pode construir vilas?",
+        "correct_answer": "Clash of Clans",
+        "incorrect_answers": ["PUBG", "Free Fire", "Fifa", "CS:GO"]
+      },
+      {
+        "question": "Qual é a arma mais cara em CS:GO?",
+        "correct_answer": "AWP",
+        "incorrect_answers": ["AK-47", "M4A4", "Desert Eagle", "Famas"]
+      },
+      {
+        "question": "Qual é o estádio em FIFA 23?",
+        "correct_answer": "Santiago Bernabéu",
+        "incorrect_answers": ["Old Trafford", "Camp Nou", "Anfield", "Wembley"]
+      },
+      {
+        "question": "Qual é a classe do jogador em Free Fire?",
+        "correct_answer": "Atirador",
+        "incorrect_answers": ["Médico", "Bombeiro", "Engenheiro", "Lutador"]
+      },
+      {
+        "question": "Qual jogo tem o modo 'Battle Royale'?",
+        "correct_answer": "Free Fire",
+        "incorrect_answers": ["Far Cry", "Fifa", "CS:GO", "Clash of Clans"]
+      },
+      {
+        "question": "Qual é a missão principal de Far Cry 5?",
+        "correct_answer": "Derrotar Joseph",
+        "incorrect_answers": ["Salvar amigos", "Conquistar a ilha", "Fugir da prisão", "Capturar bandidos"]
+      },
+      {
+        "question": "Qual é o modo de jogo em FIFA?",
+        "correct_answer": "Ultimate Team",
+        "incorrect_answers": ["Adventure", "Co-op", "Battle Royale", "Survival"]
+      },
+      {
+        "question": "Qual é o personagem de Clash Of Clans?",
+        "correct_answer": "Barbarian",
+        "incorrect_answers": ["Knight", "Paladin", "Wizard", "Rogue"]
+      },
+      {
+        "question": "Qual é o objetivo principal de CSGO?",
+        "correct_answer": "Desarmar bomba",
+        "incorrect_answers": ["Capturar bandeira", "Coletar moedas", "Salvar reféns", "Dominar mapa"]
+      },
+      {
+        "question": "Qual é o nome do vilão em Far Cry 3?",
+        "correct_answer": "Vaas Montenegro",
+        "incorrect_answers": ["Darth Vader", "The Joker", "Darius", "Sephiroth"]
+      },
+      {
+        "question": "Quem é o criador de Free Fire?",
+        "correct_answer": "Garena",
+        "incorrect_answers": ["Epic Games", "Valve", "Riot Games", "Activision"]
+      },
+      {
+        "question": "Qual é a habilidade de RUSH em Free Fire?",
+        "correct_answer": "Acelera",
+        "incorrect_answers": ["Teleporta", "Protege", "Cura", "Aumenta dano"]
+      },
+      {
+        "question": "Qual jogo tem 'Zombie Mode'?",
+        "correct_answer": "FIFA",
+        "incorrect_answers": ["CS:GO", "Free Fire", "Far Cry", "Clash of Clans"]
+      },
+      {
+        "question": "Em qual jogo se joga na Arena?",
+        "correct_answer": "Clash of Clans",
+        "incorrect_answers": ["Fifa", "Free Fire", "Far Cry", "CS:GO"]
+      },
+      {
+        "question": "Qual é o campo em FIFA?",
+        "correct_answer": "Drible",
+        "incorrect_answers": ["Passes", "Defesa", "Chute", "Toque"]
+      },
+      {
+        "question": "Qual é o modo competitivo em CS:GO?",
+        "correct_answer": "Ranked",
+        "incorrect_answers": ["Casual", "Deathmatch", "Custom", "Survival"]
+      },
+      {
+        "question": "Qual jogo é sobre construção de bases?",
+        "correct_answer": "Clash of Clans",
+        "incorrect_answers": ["Free Fire", "Far Cry", "Fifa", "CS:GO"]
+      },
+      {
+        "question": "Quem é o jogador mais famoso do FIFA?",
+        "correct_answer": "Cristiano",
+        "incorrect_answers": ["Neymar", "Messi", "Ronaldinho", "Pele"]
+      }
+    ],
+    "hard": [
+      {
+        "question": "Qual é o personagem principal em Far Cry 5?",
+        "correct_answer": "Joseph Seed",
+        "incorrect_answers": ["Jason Brody", "Vaas Montenegro", "Jacob Seed", "Clutch Nixon"]
+      },
+      {
+        "question": "Qual arma é clássica em CS:GO?",
+        "correct_answer": "AWP",
+        "incorrect_answers": ["M4A4", "AK-47", "USP", "FAMAS"]
+      },
+      {
+        "question": "Qual é a cidade de Clash Of Clans?",
+        "correct_answer": "Clashville",
+        "incorrect_answers": ["Atlantis", "Clashport", "Coclandia", "Barbaria"]
+      },
+      {
+        "question": "Quantas temporadas tem FIFA 21?",
+        "correct_answer": "29",
+        "incorrect_answers": ["25", "30", "31", "27"]
+      },
+      {
+        "question": "Qual é o mapa clássico de CS:GO?",
+        "correct_answer": "Dust II",
+        "incorrect_answers": ["Inferno", "Mirage", "Train", "Overpass"]
+      },
+      {
+        "question": "Quem é o fundador do Free Fire?",
+        "correct_answer": "Garena",
+        "incorrect_answers": ["Tencent", "EA", "Riot", "Ubisoft"]
+      },
+      {
+        "question": "Qual é a base da economia em Clash Of Clans?",
+        "correct_answer": "Gemas",
+        "incorrect_answers": ["Ouro", "Elixir", "Coração", "Poder"]
+      },
+      {
+        "question": "Qual é a maior facção em Far Cry?",
+        "correct_answer": "Culto",
+        "incorrect_answers": ["Mercenários", "Piratas", "Guerreiros", "Vigilantes"]
+      },
+      {
+        "question": "Qual é o modo de jogo em FIFA?",
+        "correct_answer": "Ultimate Team",
+        "incorrect_answers": ["Carreira", "Amistosos", "Volta", "Pro Clubs"]
+      },
+      {
+        "question": "Quem é o vilão em Free Fire?",
+        "correct_answer": "Robo",
+        "incorrect_answers": ["Ateo", "Alpha", "Lorenzo", "Eagle"]
+      },
+      {
+        "question": "Qual é a melhor arma em Clash Royale?",
+        "correct_answer": "Foguete",
+        "incorrect_answers": ["Canhão", "Bola de Fogo", "Trovão", "Granada"]
+      },
+      {
+        "question": "Qual é a moeda em Far Cry?",
+        "correct_answer": "Dólares",
+        "incorrect_answers": ["Euros", "Yenes", "Rupias", "Reais"]
+      },
+      {
+        "question": "Qual é o maior torneio de CS:GO?",
+        "correct_answer": "Major",
+        "incorrect_answers": ["DreamHack", "ESL", "IEM", "Blast"]
+      },
+      {
+        "question": "Qual é a capital de Clash of Clans?",
+        "correct_answer": "Clashland",
+        "incorrect_answers": ["Barbaria", "Nova Clash", "Guerreiros", "Elixir"]
+      },
+      {
+        "question": "Qual é o nome da liga em FIFA?",
+        "correct_answer": "Premier",
+        "incorrect_answers": ["La Liga", "Serie A", "Bundesliga", "MLS"]
+      },
+      {
+        "question": "Qual é a habilidade especial em Free Fire?",
+        "correct_answer": "Bermuda",
+        "incorrect_answers": ["Fogo", "Explosão", "Resistência", "Velocidade"]
+      },
+      {
+        "question": "Qual é a melhor classe em Clash Of Clans?",
+        "correct_answer": "Guerreiro",
+        "incorrect_answers": ["Mago", "Arqueiro", "Cavaleiro", "Ladrão"]
+      },
+      {
+        "question": "Qual é o maior vilão em Far Cry?",
+        "correct_answer": "Pagan Min",
+        "incorrect_answers": ["Vaas", "Joseph", "Hurk", "Clutch"]
+      },
+      {
+        "question": "Qual é a maior rivalidade em CS:GO?",
+        "correct_answer": "Astralis vs NAVI",
+        "incorrect_answers": ["SK vs FaZe", "G2 vs Fnatic", "Liquid vs Ence", "Cloud9 vs MIBR"]
+      }
+    ]      
+  },
+  "historia":{
+    "easy":[
+      {
+        "question": "Quem descobriu o Brasil?",
+        "correct_answer": "Pedro Álvares Cabral",
+        "incorrect_answers": ["Cristóvão Colombo", "Dom Pedro I", "José Bonifácio", "Tiradentes"]
+      },
+      {
+        "question": "Qual é a primeira capital do Brasil?",
+        "correct_answer": "Salvador",
+        "incorrect_answers": ["Rio de Janeiro", "Brasília", "São Paulo", "Recife"]
+      },
+      {
+        "question": "Quem foi o primeiro presidente dos EUA?",
+        "correct_answer": "George Washington",
+        "incorrect_answers": ["Abraham Lincoln", "Thomas Jefferson", "John Adams", "Franklin Roosevelt"]
+      },
+      {
+        "question": "Qual foi a guerra civil nos EUA?",
+        "correct_answer": "Guerra Civil",
+        "incorrect_answers": ["Guerra Fria", "Guerra do Vietnã", "Guerra da Coreia", "Guerra do Golfo"]
+      },
+      {
+        "question": "Em que ano caiu o Muro de Berlim?",
+        "correct_answer": "1989",
+        "incorrect_answers": ["1991", "1987", "1990", "1985"]
+      },
+      {
+        "question": "Quem foi a primeira mulher a votar?",
+        "correct_answer": "Carrie Chapman",
+        "incorrect_answers": ["Susan B. Anthony", "Ruth Bader", "Eleanor Roosevelt", "Margaret Thatcher"]
+      },
+      {
+        "question": "Qual é o maior império da história?",
+        "correct_answer": "Império Britânico",
+        "incorrect_answers": ["Império Romano", "Império Mongol", "Império Otomano", "Império Persa"]
+      },
+      {
+        "question": "Quem era o faraó da época de Moisés?",
+        "correct_answer": "Ramésis II",
+        "incorrect_answers": ["Tutancâmon", "Akhenaton", "Cleópatra", "Seti I"]
+      },
+      {
+        "question": "Qual foi a causa da Revolução Francesa?",
+        "correct_answer": "Desigualdade",
+        "incorrect_answers": ["Revolução Industrial", "Guerra Civil", "Expansão Colonial", "Imperialismo"]
+      },
+      {
+        "question": "Quem escreveu 'A Revolução dos Bichos'?",
+        "correct_answer": "George Orwell",
+        "incorrect_answers": ["J.K. Rowling", "Mark Twain", "Ernest Hemingway", "F. Scott Fitzgerald"]
+      },
+      {
+        "question": "Em que ano ocorreu a Primeira Guerra Mundial?",
+        "correct_answer": "1914",
+        "incorrect_answers": ["1912", "1916", "1918", "1920"]
+      },
+      {
+        "question": "Qual foi a primeira cidade do mundo?",
+        "correct_answer": "Uruk",
+        "incorrect_answers": ["Babilônia", "Ninive", "Jerusalém", "Roma"]
+      },
+      {
+        "question": "Quem foi o líder dos nazistas?",
+        "correct_answer": "Adolf Hitler",
+        "incorrect_answers": ["Joseph Goebbels", "Hermann Göring", "Heinrich Himmler", "Rudolf Hess"]
+      },
+      {
+        "question": "Qual foi a principal causa da Segunda Guerra?",
+        "correct_answer": "Expansionismo",
+        "incorrect_answers": ["Alianças", "Nacionalismo", "Imperialismo", "Desemprego"]
+      },
+      {
+        "question": "Quem fundou a cidade de Roma?",
+        "correct_answer": "Rômulo",
+        "incorrect_answers": ["Remo", "Júlio César", "Augusto", "Nero"]
+      },
+      {
+        "question": "Qual a capital do Império Romano?",
+        "correct_answer": "Roma",
+        "incorrect_answers": ["Atenas", "Cártago", "Constantinopla", "Alexandria"]
+      },
+      {
+        "question": "Quem foi a rainha da Inglaterra mais famosa?",
+        "correct_answer": "Elizabeth I",
+        "incorrect_answers": ["Victoria", "Mary", "Anne", "Catarina"]
+      },
+      {
+        "question": "Qual foi a primeira nação a abolir a escravidão?",
+        "correct_answer": "Haiti",
+        "incorrect_answers": ["EUA", "França", "Reino Unido", "Brasil"]
+      },
+      {
+        "question": "Qual a civilização que construiu as pirâmides?",
+        "correct_answer": "Egípcia",
+        "incorrect_answers": ["Mesopotâmica", "Maya", "Inca", "Grega"]
+      },
+      {
+        "question": "Em que ano foi assinado a Declaração da Independência?",
+        "correct_answer": "1776",
+        "incorrect_answers": ["1783", "1791", "1770", "1765"]
+      },
+      {
+        "question": "Quem era o general romano que cruzou o Rubicão?",
+        "correct_answer": "Júlio César",
+        "incorrect_answers": ["Pompeu", "Cícero", "Nero", "Augusto"]
+      }
+    ],
+    "medium":[
+      {
+        "question": "Quem descobriu a América?",
+        "correct_answer": "Cristóvão Colombo",
+        "incorrect_answers": ["Pedro Álvares Cabral", "Ferdinand Magellan", "Leif Erikson", "Marco Polo"]
+      },
+      {
+        "question": "Quando começou a Primeira Guerra Mundial?",
+        "correct_answer": "1914",
+        "incorrect_answers": ["1918", "1939", "1945", "1900"]
+      },
+      {
+        "question": "Qual é a capital do Império Romano?",
+        "correct_answer": "Roma",
+        "incorrect_answers": ["Atenas", "Cairo", "Constantinopla", "Cartago"]
+      },
+      {
+        "question": "Quem foi o primeiro presidente dos EUA?",
+        "correct_answer": "George Washington",
+        "incorrect_answers": ["Thomas Jefferson", "Abraham Lincoln", "John Adams", "Franklin Roosevelt"]
+      },
+      {
+        "question": "Qual civilização construiu pirâmides?",
+        "correct_answer": "Egípcia",
+        "incorrect_answers": ["Maia", "Inca", "Mesopotâmia", "Romana"]
+      },
+      {
+        "question": "Em que ano foi a Revolução Francesa?",
+        "correct_answer": "1789",
+        "incorrect_answers": ["1776", "1799", "1804", "1815"]
+      },
+      {
+        "question": "Qual país foi berço da democracia?",
+        "correct_answer": "Grécia",
+        "incorrect_answers": ["Roma", "Egito", "França", "Inglaterra"]
+      },
+      {
+        "question": "Quem escreveu 'A Divina Comédia'?",
+        "correct_answer": "Dante Alighieri",
+        "incorrect_answers": ["Shakespeare", "Cervantes", "Virgílio", "Milton"]
+      },
+      {
+        "question": "Qual foi a primeira civilização?",
+        "correct_answer": "Suméria",
+        "incorrect_answers": ["Egípcia", "Chinesa", "Grega", "Romana"]
+      },
+      {
+        "question": "Quem foi o faraó da época de Moisés?",
+        "correct_answer": "Ramessés II",
+        "incorrect_answers": ["Tutancâmon", "Cleópatra", "Akhenaton", "Seti I"]
+      },
+      {
+        "question": "Qual era a capital do Império Bizantino?",
+        "correct_answer": "Constantinopla",
+        "incorrect_answers": ["Roma", "Atenas", "Antioquia", "Cairo"]
+      },
+      {
+        "question": "Quem foi a rainha da Inglaterra em 1558?",
+        "correct_answer": "Elizabeth I",
+        "incorrect_answers": ["Maria I", "Victoria", "Anne", "Catarina"]
+      },
+      {
+        "question": "Qual evento começou em 1929?",
+        "correct_answer": "Grande Depressão",
+        "incorrect_answers": ["Primeira Guerra", "Guerra Fria", "Revolução", "Proibição"]
+      },
+      {
+        "question": "Qual foi o primeiro homem no espaço?",
+        "correct_answer": "Yuri Gagarin",
+        "incorrect_answers": ["Neil Armstrong", "Buzz Aldrin", "John Glenn", "Alan Shepard"]
+      },
+      {
+        "question": "Qual é o país da civilização maia?",
+        "correct_answer": "México",
+        "incorrect_answers": ["Peru", "Brasil", "Colômbia", "Espanha"]
+      },
+      {
+        "question": "Quem foi o último czar da Rússia?",
+        "correct_answer": "Nicolau II",
+        "incorrect_answers": ["Alexandre III", "Pedro I", "Ivan IV", "Nicolau I"]
+      },
+      {
+        "question": "Quando foi a queda do Muro de Berlim?",
+        "correct_answer": "1989",
+        "incorrect_answers": ["1991", "1985", "1987", "1990"]
+      },
+      {
+        "question": "Qual país foi aliado da Alemanha na WWII?",
+        "correct_answer": "Itália",
+        "incorrect_answers": ["Japão", "França", "Espanha", "Rússia"]
+      },
+      {
+        "question": "Qual foi a primeira mulher a votar?",
+        "correct_answer": "Emmeline Pankhurst",
+        "incorrect_answers": ["Susan B. Anthony", "Marie Curie", "Harriet Tubman", "Alice Paul"]
+      },
+      {
+        "question": "Qual foi o império que dominou a Ásia?",
+        "correct_answer": "Mongol",
+        "incorrect_answers": ["Ottomano", "Romano", "Persa", "Bizantino"]
+      }
+    ],
+    "hard": [
+      {
+        "question": "Qual foi o primeiro imperador da Roma?",
+        "correct_answer": "Augusto",
+        "incorrect_answers": ["Júlio César", "Nero", "Trajano", "Tiberio"]
+      },
+      {
+        "question": "Quem escreveu 'O Príncipe'?",
+        "correct_answer": "Maquiavel",
+        "incorrect_answers": ["Platão", "Aristóteles", "Sócrates", "Cicerão"]
+      },
+      {
+        "question": "Qual a primeira civilização?",
+        "correct_answer": "Suméria",
+        "incorrect_answers": ["Egípcia", "Gregos", "Persas", "Babilônios"]
+      },
+      {
+        "question": "Quem foi o faraó mais famoso do Egito?",
+        "correct_answer": "Tutancâmon",
+        "incorrect_answers": ["Ramsés II", "Cleópatra", "Osíris", "Akhenaton"]
+      },
+      {
+        "question": "Em que ano caiu a Bastilha?",
+        "correct_answer": "1789",
+        "incorrect_answers": ["1776", "1792", "1804", "1783"]
+      },
+      {
+        "question": "Quem foi o autor da Declaração da Independência?",
+        "correct_answer": "Thomas Jefferson",
+        "incorrect_answers": ["George Washington", "Benjamin Franklin", "John Adams", "Alexander Hamilton"]
+      },
+      {
+        "question": "Qual foi a primeira guerra mundial?",
+        "correct_answer": "Primeira Guerra",
+        "incorrect_answers": ["Guerra Fria", "Guerra do Vietnã", "Guerra do Golfo", "Segunda Guerra"]
+      },
+      {
+        "question": "Qual civilização construiu Machu Picchu?",
+        "correct_answer": "Incas",
+        "incorrect_answers": ["Maias", "Astecas", "Aztecas", "Toltecas"]
+      },
+      {
+        "question": "Quem foi o líder dos Bolcheviques?",
+        "correct_answer": "Lenin",
+        "incorrect_answers": ["Trotsky", "Stalin", "Trosky", "Zinoviev"]
+      },
+      {
+        "question": "Quando foi a queda do Muro de Berlim?",
+        "correct_answer": "1989",
+        "incorrect_answers": ["1990", "1988", "1985", "1991"]
+      },
+      {
+        "question": "Qual era o nome do barco de Cristóvão Colombo?",
+        "correct_answer": "Santa Maria",
+        "incorrect_answers": ["Pinta", "Niña", "Victoria", "Beagle"]
+      },
+      {
+        "question": "Qual foi a causa da Guerra Civil Americana?",
+        "correct_answer": "Escravidão",
+        "incorrect_answers": ["Independência", "Território", "Poder", "Impostos"]
+      },
+      {
+        "question": "Quem pintou a 'Última Ceia'?",
+        "correct_answer": "Da Vinci",
+        "incorrect_answers": ["Michelangelo", "Caravaggio", "Raphael", "Titian"]
+      },
+      {
+        "question": "Qual era a capital do Império Bizantino?",
+        "correct_answer": "Constantinopla",
+        "incorrect_answers": ["Roma", "Atenas", "Antioquia", "Damasco"]
+      },
+      {
+        "question": "Em que ano começou a Revolução Francesa?",
+        "correct_answer": "1789",
+        "incorrect_answers": ["1776", "1804", "1792", "1783"]
+      },
+      {
+        "question": "Qual foi o primeiro homem a viajar no espaço?",
+        "correct_answer": "Gagarin",
+        "incorrect_answers": ["Armstrong", "Glenn", "Aldrin", "Shepard"]
+      },
+      {
+        "question": "Quem foi o último imperador da China?",
+        "correct_answer": "Pu Yi",
+        "incorrect_answers": ["Kangxi", "Qianlong", "Yongzheng", "Xuanwu"]
+      },
+      {
+        "question": "Qual a principal religião do Império Romano?",
+        "correct_answer": "Paganismo",
+        "incorrect_answers": ["Cristianismo", "Islamismo", "Judaísmo", "Budismo"]
+      },
+      {
+        "question": "Quem foi o famoso líder do exército mongol?",
+        "correct_answer": "Gengis Khan",
+        "incorrect_answers": ["Kublai Khan", "Tamerlão", "Attila", "Hannibal"]
+      },
+      {
+        "question": "Qual o tratado que terminou a Primeira Guerra?",
+        "correct_answer": "Versalhes",
+        "incorrect_answers": ["Trianon", "Paz de Paris", "Saint-Germain", "Ruisbroek"]
+      },
+      {
+        "question": "Quem foi o fundador do Império Mongol?",
+        "correct_answer": "Gengis Khan",
+        "incorrect_answers": ["Kublai Khan", "Tamerlão", "Attila", "Hannibal"]
+      }
+    ]      
+  },
+  "mitologia":{
+    "easy":[
+      {
+          "question": "Quem é o deus grego do Olimpo?",
+          "correct_answer": "Zeus",
+          "incorrect_answers": ["Hades", "Apolo", "Ares", "Poseidon"]
+      },
+      {
+          "question": "Qual é o deus da sabedoria?",
+          "correct_answer": "Atena",
+          "incorrect_answers": ["Afrodite", "Deméter", "Hera", "Artemis"]
+      },
+      {
+          "question": "Quem é o deus romano da guerra?",
+          "correct_answer": "Marte",
+          "incorrect_answers": ["Júpiter", "Netuno", "Vênus", "Mercúrio"]
+      },
+      {
+          "question": "Qual é o deus egípcio do submundo?",
+          "correct_answer": "Osíris",
+          "incorrect_answers": ["Ra", "Hórus", "Anúbis", "Set"]
+      },
+      {
+          "question": "Qual deusa é a rainha do Olimpo?",
+          "correct_answer": "Hera",
+          "incorrect_answers": ["Deméter", "Artemis", "Atena", "Afrodite"]
+      },
+      {
+          "question": "Quem é o deus do trovão nórdico?",
+          "correct_answer": "Thor",
+          "incorrect_answers": ["Loki", "Odin", "Frey", "Baldur"]
+      },
+      {
+          "question": "Qual é o deus grego do vinho?",
+          "correct_answer": "Dionísio",
+          "incorrect_answers": ["Zeus", "Apolo", "Hermes", "Ares"]
+      },
+      {
+          "question": "Quem é a deusa da caça?",
+          "correct_answer": "Artemis",
+          "incorrect_answers": ["Atena", "Afrodite", "Deméter", "Hera"]
+      },
+      {
+          "question": "Qual é o deus do sol egípcio?",
+          "correct_answer": "Ra",
+          "incorrect_answers": ["Osíris", "Hórus", "Set", "Anúbis"]
+      },
+      {
+          "question": "Quem é o deus grego dos mensageiros?",
+          "correct_answer": "Hermes",
+          "incorrect_answers": ["Zeus", "Apolo", "Ares", "Dionísio"]
+      },
+      {
+          "question": "Quem é a deusa da beleza?",
+          "correct_answer": "Afrodite",
+          "incorrect_answers": ["Atena", "Hera", "Artemis", "Deméter"]
+      },
+      {
+          "question": "Qual é o deus dos mares?",
+          "correct_answer": "Poseidon",
+          "incorrect_answers": ["Hades", "Zeus", "Apolo", "Ares"]
+      },
+      {
+          "question": "Quem é o deus grego da morte?",
+          "correct_answer": "Hades",
+          "incorrect_answers": ["Zeus", "Ares", "Hermes", "Dionísio"]
+      },
+      {
+          "question": "Qual deusa é a mãe da deusa Atena?",
+          "correct_answer": "Metis",
+          "incorrect_answers": ["Hera", "Deméter", "Artemis", "Afrodite"]
+      },
+      {
+          "question": "Quem é o deus do amor?",
+          "correct_answer": "Eros",
+          "incorrect_answers": ["Ares", "Zeus", "Hades", "Hermes"]
+      },
+      {
+          "question": "Qual é o deus da guerra grego?",
+          "correct_answer": "Ares",
+          "incorrect_answers": ["Hades", "Hera", "Apolo", "Dionísio"]
+      },
+      {
+          "question": "Quem é o deus nórdico da sabedoria?",
+          "correct_answer": "Odin",
+          "incorrect_answers": ["Thor", "Loki", "Frey", "Baldur"]
+      },
+      {
+          "question": "Qual é a deusa do lar?",
+          "correct_answer": "Héstia",
+          "incorrect_answers": ["Hera", "Deméter", "Artemis", "Atena"]
+      },
+      {
+          "question": "Quem é o deus egípcio do caos?",
+          "correct_answer": "Set",
+          "incorrect_answers": ["Ra", "Osíris", "Hórus", "Anúbis"]
+      },
+      {
+          "question": "Qual é o deus grego dos sonhos?",
+          "correct_answer": "Hipnos",
+          "incorrect_answers": ["Thanatos", "Hades", "Zeus", "Hermes"]
+      }
+  ],
+    "medium":[
+      {
+        "question": "Quem é o deus grego do vinho?",
+        "correct_answer": "Dionísio",
+        "incorrect_answers": ["Ares", "Hades", "Apolo", "Zeus"]
+      },
+      {
+        "question": "Qual é a deusa da sabedoria?",
+        "correct_answer": "Atena",
+        "incorrect_answers": ["Hera", "Afrodite", "Deméter", "Artemis"]
+      },
+      {
+        "question": "Qual é o deus do trovão?",
+        "correct_answer": "Thor",
+        "incorrect_answers": ["Loki", "Odin", "Hades", "Zeus"]
+      },
+      {
+        "question": "Quem é a deusa do amor?",
+        "correct_answer": "Afrodite",
+        "incorrect_answers": ["Atena", "Hera", "Artemis", "Deméter"]
+      },
+      {
+        "question": "Qual é o deus egípcio do submundo?",
+        "correct_answer": "Osíris",
+        "incorrect_answers": ["Hórus", "Rá", "Set", "Anúbis"]
+      },
+      {
+        "question": "Quem é o deus grego dos mares?",
+        "correct_answer": "Poseidon",
+        "incorrect_answers": ["Apolo", "Hades", "Zeus", "Hermes"]
+      },
+      {
+        "question": "Qual é o deus grego da guerra?",
+        "correct_answer": "Ares",
+        "incorrect_answers": ["Hades", "Hermes", "Dionísio", "Apolo"]
+      },
+      {
+        "question": "Quem é a rainha do Olimpo?",
+        "correct_answer": "Hera",
+        "incorrect_answers": ["Deméter", "Atena", "Afrodite", "Artemis"]
+      },
+      {
+        "question": "Qual é o deus grego do sol?",
+        "correct_answer": "Apolo",
+        "incorrect_answers": ["Hermes", "Ares", "Zeus", "Hades"]
+      },
+      {
+        "question": "Quem é o deus do fogo?",
+        "correct_answer": "Hefesto",
+        "incorrect_answers": ["Ares", "Zeus", "Poseidon", "Hades"]
+      },
+      {
+        "question": "Quem é o mensageiro dos deuses?",
+        "correct_answer": "Hermes",
+        "incorrect_answers": ["Ares", "Hefesto", "Apolo", "Dionísio"]
+      },
+      {
+        "question": "Qual é o deus do caos?",
+        "correct_answer": "Erebus",
+        "incorrect_answers": ["Tártaro", "Nyx", "Gaia", "Cronos"]
+      },
+      {
+        "question": "Quem é a deusa da caça?",
+        "correct_answer": "Artemis",
+        "incorrect_answers": ["Hera", "Afrodite", "Atena", "Deméter"]
+      },
+      {
+        "question": "Qual é o deus da luz?",
+        "correct_answer": "Hélio",
+        "incorrect_answers": ["Apolo", "Zeus", "Hermes", "Ares"]
+      },
+      {
+        "question": "Quem é a deusa da agricultura?",
+        "correct_answer": "Deméter",
+        "incorrect_answers": ["Hera", "Atena", "Artemis", "Afrodite"]
+      },
+      {
+        "question": "Qual é o deus do sono?",
+        "correct_answer": "Hypnos",
+        "incorrect_answers": ["Thanatos", "Erebus", "Hades", "Morpheus"]
+      },
+      {
+        "question": "Quem é o deus da guerra nórdico?",
+        "correct_answer": "Odin",
+        "incorrect_answers": ["Thor", "Loki", "Baldur", "Freyr"]
+      },
+      {
+        "question": "Qual é o deus do amor nórdico?",
+        "correct_answer": "Freyr",
+        "incorrect_answers": ["Thor", "Odin", "Baldur", "Loki"]
+      },
+      {
+        "question": "Quem é o deus do vinho nórdico?",
+        "correct_answer": "Freyja",
+        "incorrect_answers": ["Thor", "Odin", "Loki", "Baldur"]
+      },
+      {
+        "question": "Quem é o deus da guerra celta?",
+        "correct_answer": "Cernunnos",
+        "incorrect_answers": ["Lugh", "Brigit", "Odin", "Freyr"]
+      }
+    ],
+    "hard":[
+      {
+        "question": "Qual é o deus grego da guerra?",
+        "correct_answer": "Ares",
+        "incorrect_answers": ["Zeus", "Hades", "Apolo", "Hércules"]
+      },
+      {
+        "question": "Quem é a deusa da sabedoria?",
+        "correct_answer": "Atena",
+        "incorrect_answers": ["Deméter", "Hera", "Artemis", "Afrodite"]
+      },
+      {
+        "question": "Quem é o deus romano do vinho?",
+        "correct_answer": "Baco",
+        "incorrect_answers": ["Júpiter", "Marte", "Netuno", "Apolo"]
+      },
+      {
+        "question": "Qual é o deus egípcio do submundo?",
+        "correct_answer": "Osíris",
+        "incorrect_answers": ["Rá", "Hórus", "Set", "Thoth"]
+      },
+      {
+        "question": "Quem foi a mãe de Perseu?",
+        "correct_answer": "Danaë",
+        "incorrect_answers": ["Medusa", "Hera", "Andrômeda", "Atena"]
+      },
+      {
+        "question": "Qual é o deus nórdico da guerra?",
+        "correct_answer": "Týr",
+        "incorrect_answers": ["Thor", "Loki", "Odin", "Balder"]
+      },
+      {
+        "question": "Quem criou o homem na mitologia grega?",
+        "correct_answer": "Prometeu",
+        "incorrect_answers": ["Zeus", "Hades", "Cronos", "Atlas"]
+      },
+      {
+        "question": "Qual é a deusa da caça?",
+        "correct_answer": "Artemis",
+        "incorrect_answers": ["Atena", "Deméter", "Afrodite", "Hera"]
+      },
+      {
+        "question": "Quem é o deus egípcio do sol?",
+        "correct_answer": "Rá",
+        "incorrect_answers": ["Set", "Hórus", "Osíris", "Thoth"]
+      },
+      {
+        "question": "Qual é o deus grego do mar?",
+        "correct_answer": "Poseidon",
+        "incorrect_answers": ["Zeus", "Hades", "Apolo", "Hermes"]
+      },
+      {
+        "question": "Quem é o guardião do submundo?",
+        "correct_answer": "Caronte",
+        "incorrect_answers": ["Hades", "Hermes", "Minos", "Tânatos"]
+      },
+      {
+        "question": "Qual é o nome do deus nórdico do trovão?",
+        "correct_answer": "Thor",
+        "incorrect_answers": ["Odin", "Loki", "Týr", "Balder"]
+      },
+      {
+        "question": "Quem é a deusa do amor e beleza?",
+        "correct_answer": "Afrodite",
+        "incorrect_answers": ["Hera", "Deméter", "Artemis", "Atena"]
+      },
+      {
+        "question": "Quem desafiou Zeus em um concurso de música?",
+        "correct_answer": "Pã",
+        "incorrect_answers": ["Apolo", "Hermes", "Atena", "Artemis"]
+      },
+      {
+        "question": "Qual titã segurava os céus?",
+        "correct_answer": "Atlas",
+        "incorrect_answers": ["Prometeu", "Cronos", "Epimeteu", "Hiperíon"]
+      },
+      {
+        "question": "Qual deusa grega foi traída por seu amante?",
+        "correct_answer": "Hera",
+        "incorrect_answers": ["Atena", "Artemis", "Afrodite", "Deméter"]
+      },
+      {
+        "question": "Quem foi a mãe de Hércules?",
+        "correct_answer": "Alcmene",
+        "incorrect_answers": ["Hera", "Atena", "Megara", "Diana"]
+      },
+      {
+        "question": "Qual é o nome do deus grego da música?",
+        "correct_answer": "Apolo",
+        "incorrect_answers": ["Hermes", "Eros", "Ares", "Dionísio"]
+      },
+      {
+        "question": "Quem é a deusa da terra na mitologia grega?",
+        "correct_answer": "Gaia",
+        "incorrect_answers": ["Deméter", "Hera", "Atena", "Selene"]
+      },
+      {
+        "question": "Quem foi condenado a comer fígado eternamente?",
+        "correct_answer": "Prometeu",
+        "incorrect_answers": ["Tântalo", "Sísifo", "Minos", "Ixion"]
+      }
+    ]      
+  },
+  "tecnologia":{
+    "easy":[
+      {
+        "question": "Qual é o sistema operacional da Apple?",
+        "correct_answer": "macOS",
+        "incorrect_answers": ["Windows", "Linux", "Unix", "Android"]
+      },
+      {
+        "question": "O que é um smartphone?",
+        "correct_answer": "Celular inteligente",
+        "incorrect_answers": ["Computador", "Tablet", "Notebook", "TV"]
+      },
+      {
+        "question": "Quem criou o Facebook?",
+        "correct_answer": "Mark Zuckerberg",
+        "incorrect_answers": ["Bill Gates", "Elon Musk", "Steve Jobs", "Larry Page"]
+      },
+      {
+        "question": "Qual é o maior motor de busca?",
+        "correct_answer": "Google",
+        "incorrect_answers": ["Bing", "Yahoo", "DuckDuckGo", "Ask"]
+      },
+      {
+        "question": "O que é a nuvem?",
+        "correct_answer": "Armazenamento online",
+        "incorrect_answers": ["Rede social", "Software", "Hardware", "Servidor"]
+      },
+      {
+        "question": "Qual é a linguagem de código do Google Chrome?",
+        "correct_answer": "JavaScript",
+        "incorrect_answers": ["Python", "Java", "C++", "Ruby"]
+      },
+      {
+        "question": "O que é Wi-Fi?",
+        "correct_answer": "Rede sem fio",
+        "incorrect_answers": ["Rede cabeada", "Bluetooth", "Intranet", "VPN"]
+      },
+      {
+        "question": "Qual é a função de um roteador?",
+        "correct_answer": "Conectar redes",
+        "incorrect_answers": ["Imprimir", "Escanear", "Gravar", "Armazenar"]
+      },
+      {
+        "question": "Qual empresa faz o Windows?",
+        "correct_answer": "Microsoft",
+        "incorrect_answers": ["Apple", "Google", "IBM", "Dell"]
+      },
+      {
+        "question": "O que é um antivírus?",
+        "correct_answer": "Protege o PC",
+        "incorrect_answers": ["Acelera a internet", "Faz backup", "Edita fotos", "Desfragmenta"]
+      },
+      {
+        "question": "O que é um USB?",
+        "correct_answer": "Conector",
+        "incorrect_answers": ["Teclado", "Monitor", "Impressora", "Modem"]
+      },
+      {
+        "question": "O que é um e-mail?",
+        "correct_answer": "Correio eletrônico",
+        "incorrect_answers": ["Rede social", "Site", "Jogo", "App"]
+      },
+      {
+        "question": "Qual o símbolo da Apple?",
+        "correct_answer": "Maçã",
+        "incorrect_answers": ["Pêra", "Laranja", "Banana", "Uva"]
+      },
+      {
+        "question": "O que é um hacker?",
+        "correct_answer": "Especialista em segurança",
+        "incorrect_answers": ["Programador", "Designer", "Analista", "Vendedor"]
+      },
+      {
+        "question": "O que é um software?",
+        "correct_answer": "Programa de computador",
+        "incorrect_answers": ["Hardware", "Firmware", "Rede", "Sistema"]
+      },
+      {
+        "question": "O que é uma URL?",
+        "correct_answer": "Endereço web",
+        "incorrect_answers": ["E-mail", "Rede", "App", "Documento"]
+      },
+      {
+        "question": "Qual é o símbolo do Windows?",
+        "correct_answer": "Janela",
+        "incorrect_answers": ["Maçã", "Sol", "Coração", "Estrela"]
+      },
+      {
+        "question": "O que é um tablet?",
+        "correct_answer": "Computador portátil",
+        "incorrect_answers": ["Desktop", "Notebook", "Smartphone", "Monitor"]
+      },
+      {
+        "question": "O que é a inteligência artificial?",
+        "correct_answer": "Máquinas inteligentes",
+        "incorrect_answers": ["Rede social", "Robô", "Software", "Jogo"]
+      }
+    ],
+    "medium":[
+      {
+        "question": "Qual é o sistema operacional mais usado?",
+        "correct_answer": "Windows",
+        "incorrect_answers": ["Linux", "iOS", "Android", "MacOS"]
+      },
+      {
+        "question": "Qual empresa criou o iPhone?",
+        "correct_answer": "Apple",
+        "incorrect_answers": ["Samsung", "Nokia", "Sony", "LG"]
+      },
+      {
+        "question": "O que é um URL?",
+        "correct_answer": "Endereço web",
+        "incorrect_answers": ["Rede social", "Protocolo", "Domínio", "Serviço"]
+      },
+      {
+        "question": "O que é um navegador?",
+        "correct_answer": "Programa web",
+        "incorrect_answers": ["Sistema", "Hardware", "Software", "Rede"]
+      },
+      {
+        "question": "Qual é a linguagem do web?",
+        "correct_answer": "JavaScript",
+        "incorrect_answers": ["Python", "Ruby", "C++", "HTML"]
+      },
+      {
+        "question": "O que significa Wi-Fi?",
+        "correct_answer": "Rede sem fio",
+        "incorrect_answers": ["Internet", "Bluetooth", "USB", "Ethernet"]
+      },
+      {
+        "question": "Qual é o maior site de busca?",
+        "correct_answer": "Google",
+        "incorrect_answers": ["Yahoo", "Bing", "DuckDuckGo", "Ask"]
+      },
+      {
+        "question": "O que é um SSD?",
+        "correct_answer": "Disco rápido",
+        "incorrect_answers": ["Memória", "Processador", "Placa-mãe", "Fonte"]
+      },
+      {
+        "question": "Qual é a principal rede social?",
+        "correct_answer": "Facebook",
+        "incorrect_answers": ["Instagram", "Twitter", "Snapchat", "TikTok"]
+      },
+      {
+        "question": "Qual é a função do BIOS?",
+        "correct_answer": "Iniciar PC",
+        "incorrect_answers": ["Controlar RAM", "Conectar internet", "Armazenar dados", "Executar apps"]
+      },
+      {
+        "question": "Qual é o maior site de vídeos?",
+        "correct_answer": "YouTube",
+        "incorrect_answers": ["Vimeo", "Dailymotion", "Twitch", "Facebook"]
+      },
+      {
+        "question": "O que é um firewall?",
+        "correct_answer": "Segurança rede",
+        "incorrect_answers": ["Roteador", "Servidor", "Navegador", "Malware"]
+      },
+      {
+        "question": "Qual empresa fez o Windows?",
+        "correct_answer": "Microsoft",
+        "incorrect_answers": ["Apple", "IBM", "Oracle", "Google"]
+      },
+      {
+        "question": "O que é a nuvem?",
+        "correct_answer": "Armazenamento",
+        "incorrect_answers": ["Sistemas", "Hardware", "Software", "Internet"]
+      },
+      {
+        "question": "Qual é o uso do GPS?",
+        "correct_answer": "Navegação",
+        "incorrect_answers": ["Comunicação", "Armazenamento", "Monitoramento", "Impressão"]
+      },
+      {
+        "question": "Qual é a função do modem?",
+        "correct_answer": "Conectar internet",
+        "incorrect_answers": ["Imprimir", "Armazenar", "Transmitir", "Escanear"]
+      },
+      {
+        "question": "O que é um bot?",
+        "correct_answer": "Programa automático",
+        "incorrect_answers": ["Jogos", "Hardware", "Rede", "Sistema"]
+      },
+      {
+        "question": "Qual é a maior empresa de tecnologia?",
+        "correct_answer": "Apple",
+        "incorrect_answers": ["Microsoft", "Amazon", "Google", "Facebook"]
+      },
+      {
+        "question": "Qual é a função do antivírus?",
+        "correct_answer": "Proteger PC",
+        "incorrect_answers": ["Armazenar", "Navegar", "Imprimir", "Transmitir"]
+      },
+      {
+        "question": "O que é um smartphone?",
+        "correct_answer": "Celular inteligente",
+        "incorrect_answers": ["Tablet", "Laptop", "Desktop", "Smartwatch"]
+      }
+    ],
+    "hard": [
+      {
+        "question": "Qual é o sistema operacional da Apple?",
+        "correct_answer": "macOS",
+        "incorrect_answers": ["Windows", "Linux", "Android", "iOS"]
+      },
+      {
+        "question": "Qual é a linguagem do Android?",
+        "correct_answer": "Java",
+        "incorrect_answers": ["Python", "C++", "Ruby", "Go"]
+      },
+      {
+        "question": "Qual é a unidade de medida de dados?",
+        "correct_answer": "Byte",
+        "incorrect_answers": ["Bit", "Kilobyte", "Megabyte", "Gigabyte"]
+      },
+      {
+        "question": "Qual empresa criou o iPhone?",
+        "correct_answer": "Apple",
+        "incorrect_answers": ["Samsung", "Nokia", "Sony", "LG"]
+      },
+      {
+        "question": "Qual é o símbolo da moeda Bitcoin?",
+        "correct_answer": "₿",
+        "incorrect_answers": ["$", "€", "£", "¥"]
+      },
+      {
+        "question": "Qual é a linguagem do Facebook?",
+        "correct_answer": "PHP",
+        "incorrect_answers": ["JavaScript", "Ruby", "Java", "C#"]
+      },
+      {
+        "question": "Qual é o nome do assistente da Google?",
+        "correct_answer": "Google Assistant",
+        "incorrect_answers": ["Siri", "Alexa", "Cortana", "Bixby"]
+      },
+      {
+        "question": "O que é IoT?",
+        "correct_answer": "Internet das Coisas",
+        "incorrect_answers": ["Rede Social", "Cloud", "Big Data", "Web 3.0"]
+      },
+      {
+        "question": "Qual é o navegador da Mozilla?",
+        "correct_answer": "Firefox",
+        "incorrect_answers": ["Chrome", "Safari", "Edge", "Opera"]
+      },
+      {
+        "question": "O que é um Firewall?",
+        "correct_answer": "Segurança",
+        "incorrect_answers": ["Antivírus", "Malware", "Proxy", "Trojan"]
+      },
+      {
+        "question": "O que é Git?",
+        "correct_answer": "Controle de versão",
+        "incorrect_answers": ["Banco de dados", "Sistema operacional", "Editor de texto", "Framework"]
+      },
+      {
+        "question": "Qual é o formato de imagem mais comum?",
+        "correct_answer": "JPEG",
+        "incorrect_answers": ["PNG", "GIF", "BMP", "TIFF"]
+      },
+      {
+        "question": "O que é Cloud Computing?",
+        "correct_answer": "Computação em nuvem",
+        "incorrect_answers": ["Armazenamento local", "Backup físico", "Servidor dedicado", "Rede P2P"]
+      },
+      {
+        "question": "Qual é a função do DNS?",
+        "correct_answer": "Resolver domínios",
+        "incorrect_answers": ["Bloquear IP", "Acelerar conexão", "Proteger dados", "Armazenar arquivos"]
+      },
+      {
+        "question": "O que é um algoritmo?",
+        "correct_answer": "Conjunto de instruções",
+        "incorrect_answers": ["Banco de dados", "Interface gráfica", "Código-fonte", "Framework"]
+      },
+      {
+        "question": "Qual é o uso do HTML?",
+        "correct_answer": "Estruturar páginas",
+        "incorrect_answers": ["Programar", "Estilizar", "Analisar dados", "Acessar banco"]
+      },
+      {
+        "question": "Qual é a rede social mais popular?",
+        "correct_answer": "Facebook",
+        "incorrect_answers": ["Twitter", "Instagram", "LinkedIn", "Snapchat"]
+      },
+      {
+        "question": "O que é um navegador?",
+        "correct_answer": "Acessar a web",
+        "incorrect_answers": ["Programar", "Editar fotos", "Proteger dados", "Gerenciar arquivos"]
+      },
+      {
+        "question": "Qual a função de um roteador?",
+        "correct_answer": "Conectar redes",
+        "incorrect_answers": ["Armazenar dados", "Imprimir", "Enviar e-mail", "Proteger virus"]
+      },
+      {
+        "question": "O que é um VPN?",
+        "correct_answer": "Rede privada virtual",
+        "incorrect_answers": ["Antivírus", "Firewall", "Cloud storage", "Host"]
+      }
+    ]      
+  }
+}
+  
