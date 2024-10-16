@@ -13,9 +13,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-<<<<<<< HEAD
-  ]
-=======
 , "src/components/QuestionScreen/index.js"  ]
->>>>>>> ce33b8a3ac2eb67ca03d0b641e539bfebf057860
 }
