@@ -5,8 +5,9 @@ Cada partida começa com a escolha de um apelido e a personalização das prefer
 
 O projeto foca em:
 
-Diversificação de conteúdo: categorias variadas para atrair diferentes interesses.
-Escalabilidade de dificuldade: para iniciantes e veteranos em quiz.
-Usabilidade: interface adaptada, especialmente ao abrir o teclado, para melhorar a experiência em dispositivos móveis.
-Aleatoriedade das perguntas: mantendo a jogabilidade fresca a cada partida.
+- Diversificação de conteúdo: categorias variadas para atrair diferentes interesses.
+- Escalabilidade de dificuldade: para iniciantes e veteranos em quiz.
+- Usabilidade: interface adaptada, especialmente ao abrir o teclado, para melhorar a experiência em dispositivos móveis.
+- Aleatoriedade das perguntas: mantendo a jogabilidade fresca a cada partida.
+
 Esse projeto pode servir para entretenimento, aprendizado ou até competição amistosa entre amigos.
