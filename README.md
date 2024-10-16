@@ -63,4 +63,8 @@ O projeto foca em:
 - Aleatoriedade das perguntas: mantendo a jogabilidade fresca a cada partida.
 
 Esse projeto pode servir para entretenimento, aprendizado ou até competição amistosa entre amigos.
+<<<<<<< HEAD
 >>>>>>> 69aa1a9b1fcf8572adfe6e9c070aa1ce1e41dcc9
+=======
+>>>>>>> 69aa1a9b1fcf8572adfe6e9c070aa1ce1e41dcc9
+>>>>>>> ce33b8a3ac2eb67ca03d0b641e539bfebf057860

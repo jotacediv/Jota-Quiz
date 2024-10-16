@@ -5,7 +5,11 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
+<<<<<<< HEAD
     "scheme": "jotaquiz",
+=======
+    "scheme": "gamejotaquiz",
+>>>>>>> ce33b8a3ac2eb67ca03d0b641e539bfebf057860
     "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/images/splash.png",
@@ -27,7 +31,12 @@
       "favicon": "./assets/images/favicon.png"
     },
     "plugins": [
+<<<<<<< HEAD
       "expo-router"
+=======
+      "expo-router",
+      "expo-font"
+>>>>>>> ce33b8a3ac2eb67ca03d0b641e539bfebf057860
     ],
     "experiments": {
       "typedRoutes": true
