@@ -19,7 +19,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#1952FC"
-      }
+      },
+      "package": "com.jotace.jotaquiz"
     },
     "web": {
       "bundler": "metro",
@@ -32,6 +33,11 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "df4a3ddd-a210-4c1a-90ea-0ba5ca14e87c"
+      }
     }
   }
 }
